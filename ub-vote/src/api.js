@@ -1,12 +1,16 @@
 // One small helper for every call to the server.
 export const tokenKey = (role) => `ubvote-${role}-token`;
 
+// In dev this is empty and Vite proxies /api to the local server.
+// In production (e.g. Vercel), set VITE_API_BASE_URL to the Railway backend URL.
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "";
+
 export async function api(path, { method = "GET", body, role } = {}) {
   const headers = { "Content-Type": "application/json" };
   const token = role && sessionStorage.getItem(tokenKey(role));
   if (token) headers.Authorization = `Bearer ${token}`;
 
-  const res = await fetch(`/api${path}`, {
+  const res = await fetch(`${API_BASE}/api${path}`, {
     method,
     headers,
     body: body ? JSON.stringify(body) : undefined,

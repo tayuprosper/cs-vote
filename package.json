@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "npm --prefix ub-vote run dev",
     "server": "node --env-file-if-exists=.env server/index.js",
+    "start": "node server/index.js",
     "dev:all": "concurrently \"npm run server\" \"npm run dev\"",
     "build": "npm --prefix ub-vote run build",
     "lint": "npm --prefix ub-vote run lint",

@@ -6,17 +6,29 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 // ---------- Settings (change these) ----------
-const PORT = Number(process.env.API_PORT || 4100);
+// Railway (and most hosts) assign the port via PORT; API_PORT is for local dev.
+const PORT = Number(process.env.PORT || process.env.API_PORT || 4100);
 const ADMIN_UB = (process.env.ADMIN_UBNUMBER || process.env.ADMIN_UB || "")
   .trim()
   .toUpperCase();
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "";
+// Comma-separated list of allowed frontend origins, e.g. your Vercel URL.
+// Leave unset to allow any origin (fine since auth uses a Bearer token, not cookies).
+const ALLOWED_ORIGINS = (process.env.ALLOWED_ORIGINS || "")
+  .split(",")
+  .map((o) => o.trim())
+  .filter(Boolean);
 
 // ---------- Files ----------
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.join(__dirname, "data");
+// Static data shipped with the code always lives in the repo.
+const STUDENTS_FILE = path.join(__dirname, "data", "csc_admissions.json");
+// The vote database must live on writable, persistent storage. On Railway,
+// attach a volume and point DATA_DIR at its mount path so db.json survives
+// redeploys; locally it defaults to server/data.
+const DATA_DIR = process.env.DATA_DIR || path.join(__dirname, "data");
+fs.mkdirSync(DATA_DIR, { recursive: true });
 const DB_FILE = path.join(DATA_DIR, "db.json");
-const STUDENTS_FILE = path.join(DATA_DIR, "csc_admissions.json");
 
 // ---------- Load students: UB number -> name ----------
 const raw = JSON.parse(fs.readFileSync(STUDENTS_FILE, "utf8"));
@@ -98,7 +110,11 @@ function auth(role) {
 
 // ---------- App ----------
 const app = express();
-app.use(cors());
+app.use(
+  cors(
+    ALLOWED_ORIGINS.length ? { origin: ALLOWED_ORIGINS } : undefined
+  )
+);
 app.use(express.json());
 
 // Public: is voting open?
