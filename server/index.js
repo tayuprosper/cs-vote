@@ -7,8 +7,10 @@ import { fileURLToPath } from "url";
 
 // ---------- Settings (change these) ----------
 const PORT = Number(process.env.API_PORT || 4100);
-const ADMIN_UB = (process.env.ADMIN_UB || "ADMIN001").toUpperCase();
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "change-me-123";
+const ADMIN_UB = (process.env.ADMIN_UBNUMBER || process.env.ADMIN_UB || "")
+  .trim()
+  .toUpperCase();
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "";
 
 // ---------- Files ----------
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -115,7 +117,9 @@ app.get("/api/results", (req, res) => {
       id: p.id,
       name: p.name,
       totalVotes: (db.cast[p.id] || []).length,
-      candidates: [...p.candidates].sort((a, b) => b.votes - a.votes),
+      candidates: [...p.candidates]
+        .sort((a, b) => b.votes - a.votes)
+        .map((c) => ({ id: c.id, name: c.name, votes: c.votes })),
     })),
   });
 });
@@ -185,6 +189,11 @@ app.post("/api/vote", auth("student"), (req, res) => {
 
 // ---------- Admin routes ----------
 app.post("/api/admin/login", (req, res) => {
+  if (!ADMIN_UB || !ADMIN_PASSWORD) {
+    return res.status(503).json({
+      error: "Admin login is not configured. Set ADMIN_UBNUMBER and ADMIN_PASSWORD in .env.",
+    });
+  }
   const ub = clean(req.body.ub);
   const password = req.body.password || "";
   if (!same(ub, ADMIN_UB) || !same(password, ADMIN_PASSWORD)) {
