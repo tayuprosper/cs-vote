@@ -1,0 +1,20 @@
+{
+  "name": "cs-vote",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix ub-vote run dev",
+    "server": "node server/index.js",
+    "dev:all": "concurrently \"npm run server\" \"npm run dev\"",
+    "build": "npm --prefix ub-vote run build",
+    "lint": "npm --prefix ub-vote run lint",
+    "preview": "npm --prefix ub-vote run preview"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  }
+}

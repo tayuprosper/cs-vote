@@ -1,0 +1,6030 @@
+{
+  "program": "B.Sc Computer Science (CSC)",
+  "totalStudents": 858,
+  "academicYears": [
+    {
+      "academicYear": "2026/2027",
+      "count": 296,
+      "students": [
+        {
+          "sn": 1,
+          "name": "ANOCHE ALICE EBOHTIA",
+          "matricule": "SC26A683",
+          "email": "anoche.alice@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 2,
+          "name": "MUH KELLY ANJANG",
+          "matricule": "SC26A684",
+          "email": "muh.kelly@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 3,
+          "name": "SIANTOH AGWE JUNKWE",
+          "matricule": "SC26A685",
+          "email": "siantoh.@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 4,
+          "name": "ACHALEFEH GORDEN BEZUA",
+          "matricule": "SC26C232",
+          "email": "achalefeh.gorden@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 5,
+          "name": "ACHU PRINCELY MULUH",
+          "matricule": "SC26A686",
+          "email": "achu.@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 6,
+          "name": "ACHUONCHUO TRAVOBRIX ACHUO",
+          "matricule": "SC26A687",
+          "email": "achuonchuo.travobrix@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 7,
+          "name": "AFA'ANUI KENDRA-ALERA MBUMBU",
+          "matricule": "SC26A688",
+          "email": "afa'anui.kendra-alera@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 8,
+          "name": "AFAH-NYUY BRYAN MBOHLI",
+          "matricule": "SC26A689",
+          "email": "afah-nyuy.bryan@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 9,
+          "name": "AFEMBOMBI DAISY SHELINKEH",
+          "matricule": "SC26C233",
+          "email": "afembombi.daisy@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 10,
+          "name": "AFOH MBAH-ENDAM ONEILA",
+          "matricule": "SC26C234",
+          "email": "afoh.mbah-endam@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 11,
+          "name": "AGBOR CALEB OROCK",
+          "matricule": "SC26A690",
+          "email": "agbor.caleb@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 12,
+          "name": "AGBOR DORIER MEDUKE NDELLE",
+          "matricule": "SC26A691",
+          "email": "agbor.dorier@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 13,
+          "name": "AGBORNDIP OJONGNDIP",
+          "matricule": "SC26A692",
+          "email": "agborndip.ojongndip@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 14,
+          "name": "AGBORNKWAI TABOT ETANDOW DENZEL-BRIGHT",
+          "matricule": "SC26A693",
+          "email": "agbornkwai.tabot@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 15,
+          "name": "AJONGAKOH PRECIOUS NKENGANJI",
+          "matricule": "SC26A694",
+          "email": "ajongakoh.precious@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 16,
+          "name": "AKAMA THOMAS ETIA",
+          "matricule": "SC26A695",
+          "email": "akama.thomas@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 17,
+          "name": "AKANJI FIDELIS MBAH",
+          "matricule": "SC26C235",
+          "email": "akanji.fidelis@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 18,
+          "name": "AKWECK ZEALMA-JOY MBANWEI",
+          "matricule": "SC26A696",
+          "email": "akweck.zealma-joy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 19,
+          "name": "AKWO JAMES NSONG NKUNYU",
+          "matricule": "SC26A697",
+          "email": "akwo.james@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 20,
+          "name": "ALLAN BEMSIMBOM ANJOFNDA",
+          "matricule": "SC26A698",
+          "email": "allan.bemsimbom@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 21,
+          "name": "AMBE ADEYEMI MARTIN ABIODUN",
+          "matricule": "SC26A699",
+          "email": "ambe.adeyemi@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 22,
+          "name": "AMELE VALENTINE EVILA",
+          "matricule": "SC26A700",
+          "email": "amele.valentine@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 23,
+          "name": "AMINAKEH DARWIN TEMATEH",
+          "matricule": "SC26A701",
+          "email": "aminakeh.darwin@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 24,
+          "name": "AMINDE ELINA NAH",
+          "matricule": "SC26A702",
+          "email": "aminde.elina@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 25,
+          "name": "ANAKA FAVOUR MANGWI",
+          "matricule": "SC26A703",
+          "email": "anaka.favour@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 26,
+          "name": "ANANG KELSON BRIGHT ANU",
+          "matricule": "SC26A704",
+          "email": "anang.kelson@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 27,
+          "name": "ANDANG SERAN TASEH",
+          "matricule": "SC26A705",
+          "email": "andang.seran@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 28,
+          "name": "ANDO STEPHANIE AMA",
+          "matricule": "SC26A706",
+          "email": "ando.stephanie@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 29,
+          "name": "ANJEI PRIDE SAMA",
+          "matricule": "SC26A707",
+          "email": "anjei.pride@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 30,
+          "name": "ANNAMAE JESSY NANYONGO ENDELEY",
+          "matricule": "SC26A708",
+          "email": "annamae.jessy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 31,
+          "name": "ANYA WISDOM FU-UH",
+          "matricule": "SC26A709",
+          "email": "anya.wisdom@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 32,
+          "name": "ANYE NOEL NDE",
+          "matricule": "SC26A710",
+          "email": "anye.noel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 33,
+          "name": "ARREY ENO KESTON",
+          "matricule": "SC26A711",
+          "email": "arrey.@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 34,
+          "name": "ASAH JEANSTINE FORBANG",
+          "matricule": "SC26A712",
+          "email": "asah.jeanstine@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 35,
+          "name": "ASHUNTANTANG GEORGIA TABENYANG",
+          "matricule": "SC26A714",
+          "email": "ashuntantang.georgia@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 36,
+          "name": "ASIBECHEH JOYCE-MERIT NCHIKE-ANIM",
+          "matricule": "SC26A715",
+          "email": "asibecheh.joyce-merit@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 37,
+          "name": "ASONG ASONG MCMARVEL",
+          "matricule": "SC26A716",
+          "email": "asong.asong@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 38,
+          "name": "ATANGA SONIBELLE MUNGU",
+          "matricule": "SC26A717",
+          "email": "atanga.sonibelle@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 39,
+          "name": "ATEH FAVOUR SOMNDAH MAZAKAR",
+          "matricule": "SC26C236",
+          "email": "ateh.favour@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 40,
+          "name": "ATEMANJA MELVIN KARI NJI",
+          "matricule": "SC26A718",
+          "email": "atemanja.melvin@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 41,
+          "name": "ATONGHE LARRISON NZUMEKOME",
+          "matricule": "SC26A719",
+          "email": "atonghe.larrison@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 42,
+          "name": "AWAH DENCY BIH",
+          "matricule": "SC26C237",
+          "email": "awah.dency@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 43,
+          "name": "AWAH LARYKING AWAH",
+          "matricule": "SC26A720",
+          "email": "awah.laryking@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 44,
+          "name": "AWEH GRACE ARREY OKEKU ENJIMA",
+          "matricule": "SC26C238",
+          "email": "aweh.grace@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 45,
+          "name": "AYANCHOU MICLOVE NEBA",
+          "matricule": "SC26A721",
+          "email": "ayanchou.miclove@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 46,
+          "name": "AYUK AKANG LORENA",
+          "matricule": "SC26A115",
+          "email": "ayuk.akang@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 47,
+          "name": "AYUK EYONG ARREHQUETTE",
+          "matricule": "SC26A722",
+          "email": "ayuk.eyong@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 48,
+          "name": "AYUKETA DIANALINE EYERE",
+          "matricule": "SC26A723",
+          "email": "ayuketa.dianaline@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 49,
+          "name": "AZEBAZE FOUEDJEU KEVIN LANDRY",
+          "matricule": "SC26A724",
+          "email": "azebaze.fouedjeu@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 50,
+          "name": "AZI PRINCE JIREH",
+          "matricule": "SC26A725",
+          "email": "azi.prince@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 51,
+          "name": "AZONGKOH DAVID HOLY TIBENINYUEK",
+          "matricule": "SC26A726",
+          "email": "azongkoh.david@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 52,
+          "name": "BAH REJOICE EFON",
+          "matricule": "SC26A727",
+          "email": "bah.rejoice@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 53,
+          "name": "BANTEH ROMARICK KERNYUY",
+          "matricule": "SC26A728",
+          "email": "banteh.romarick@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 54,
+          "name": "BAWACK BECHEM ARRAHNOW STACY",
+          "matricule": "SC26A729",
+          "email": "bawack.bechem@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 55,
+          "name": "BEKOU MBA ANA DIVINE",
+          "matricule": "SC26A730",
+          "email": "bekou.mba@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 56,
+          "name": "BELTIN NYEFESIYI",
+          "matricule": "SC26C239",
+          "email": "beltin.nyefesiyi@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 57,
+          "name": "BERINYU MBUNWE GLORY",
+          "matricule": "SC26A731",
+          "email": "berinyu.mbunwe@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 58,
+          "name": "BERINYUY JACINTA NGU",
+          "matricule": "SC26A732",
+          "email": "berinyuy.jacinta@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 59,
+          "name": "BESONG PETER BESONG",
+          "matricule": "SC26A733",
+          "email": "besong.peter@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 60,
+          "name": "BIH BLESSING FUBEH",
+          "matricule": "SC26C240",
+          "email": "bih.blessing@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 61,
+          "name": "BINDA OKELLE LAKISE BEKUMBA",
+          "matricule": "SC26A734",
+          "email": "binda.okelle@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 62,
+          "name": "BOBGA CLEVIS",
+          "matricule": "SC26A735",
+          "email": "bobga.clevis@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 63,
+          "name": "BOBUIN KINDNESS YURUNWI",
+          "matricule": "SC26A736",
+          "email": "bobuin.kindness@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 64,
+          "name": "BONGBEN KYRA-KIARA MDZELA",
+          "matricule": "SC26A737",
+          "email": "bongben.kyra-kiara@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 65,
+          "name": "BUBA MAMUDA",
+          "matricule": "SC26A738",
+          "email": "buba.mamuda@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 66,
+          "name": "BUH MAVELOUS SEI",
+          "matricule": "SC26A140",
+          "email": "buh.mavelous@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 67,
+          "name": "CARIKWI KEVIN",
+          "matricule": "SC26A739",
+          "email": "carikwi.kevin@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 68,
+          "name": "CHAAH LARISA NIBAH",
+          "matricule": "SC26C241",
+          "email": "chaah.larisa@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 69,
+          "name": "CHABAJA HAMED SALIVE PETER",
+          "matricule": "SC26A740",
+          "email": "chabaja.hamed@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 70,
+          "name": "CHE BERACAH BLESSING AHANWI",
+          "matricule": "SC26A741",
+          "email": "che.beracah@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 71,
+          "name": "CHE KUM BERINYUY MOWO",
+          "matricule": "SC26A742",
+          "email": "che.kum@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 72,
+          "name": "CHE MBOMZEGHA AFANWI KELLY-BRIGHT",
+          "matricule": "SC26A743",
+          "email": "che.mbomzegha@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 73,
+          "name": "CHI DARVIS AGWE",
+          "matricule": "SC26A744",
+          "email": "chi.darvis@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 74,
+          "name": "CHI JESTOUCH MACARIOS NDZENYUY",
+          "matricule": "SC26A745",
+          "email": "chi.jestouch@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 75,
+          "name": "CHIA AJIMSIMBOM YONGMBANG",
+          "matricule": "SC26A746",
+          "email": "chia.ajimsimbom@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 76,
+          "name": "CINDY-THIERA WELISANE BELIE MEH",
+          "matricule": "SC26A747",
+          "email": "cindy-thiera.welisane@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 77,
+          "name": "COLINS NKAMTCHWANG NJIAH NJILA",
+          "matricule": "SC26A748",
+          "email": "colins.nkamtchwang@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 78,
+          "name": "DAGUE TESWE URIEL",
+          "matricule": "SC26A749",
+          "email": "dague.teswe@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 79,
+          "name": "DEFFO FOTSO RAPHAËL",
+          "matricule": "SC26A750",
+          "email": "deffo.fotso@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 80,
+          "name": "DIOBE ALPHONSE LARRY ASUE",
+          "matricule": "SC26A751",
+          "email": "diobe.alphonse@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 81,
+          "name": "DJANWOUA CLARIO NJIWA",
+          "matricule": "SC26A752",
+          "email": "djanwoua.clario@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 82,
+          "name": "DJEUNGA TENE PIERRE ENDEVE",
+          "matricule": "SC26A753",
+          "email": "djeunga.tene@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 83,
+          "name": "DURELL NIBA NGANTCHUI",
+          "matricule": "SC26A754",
+          "email": "durell.niba@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 84,
+          "name": "EBOKA FAVOUR ESIMO",
+          "matricule": "SC26C242",
+          "email": "eboka.favour@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 85,
+          "name": "EBONG FLORENCE BLESSING NDONE",
+          "matricule": "SC26A755",
+          "email": "ebong.florence@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 86,
+          "name": "EBONG NELSON NJUME",
+          "matricule": "SC26A756",
+          "email": "ebong.nelson@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 87,
+          "name": "EDINGA NGANGENE EMMANUEL JUNIOR",
+          "matricule": "SC26A757",
+          "email": "edinga.ngangene@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 88,
+          "name": "EFOE DINHO SUH",
+          "matricule": "SC26C243",
+          "email": "efoe.dinho@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 89,
+          "name": "EGBEBI ROLLINE TUKU",
+          "matricule": "SC26A758",
+          "email": "egbebi.rolline@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 90,
+          "name": "EKAMBI MBAPPE ZEBEDE STEVIE CAMILLE",
+          "matricule": "SC26C244",
+          "email": "ekambi.mbappe@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 91,
+          "name": "EKEH TAH DILANEL ENONGENE",
+          "matricule": "SC26A759",
+          "email": "ekeh.tah@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 92,
+          "name": "EKPOMBANG NCHUNG",
+          "matricule": "SC26A760",
+          "email": "ekpombang.nchung@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 93,
+          "name": "EMMANUEL PATRICK MAPONE EDIMO",
+          "matricule": "SC26C245",
+          "email": "emmanuel.patrick@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 94,
+          "name": "ENEME DESMOND NGANJI",
+          "matricule": "SC26A761",
+          "email": "eneme.desmond@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 95,
+          "name": "ENOW NJIKI HERBERT NGIUMBOCK",
+          "matricule": "SC26A762",
+          "email": "enow.njiki@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 96,
+          "name": "ESUMU EWUNZO JUNIOR PRINCEWILL",
+          "matricule": "SC26A763",
+          "email": "esumu.ewunzo@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 97,
+          "name": "ETTA LEXY NGITTI JUNIOR",
+          "matricule": "SC26A764",
+          "email": "etta.lexy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 98,
+          "name": "EYABI SARAH PERFECT",
+          "matricule": "SC26A765",
+          "email": "eyabi.sarah@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 99,
+          "name": "EYOLE FOGUETSOP WILLIAM MARTINS",
+          "matricule": "SC26A766",
+          "email": "eyole.foguetsop@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 100,
+          "name": "FAHNYUI FAITH NUMFOR",
+          "matricule": "SC26A767",
+          "email": "fahnyui.faith@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 101,
+          "name": "FAI EMORY JONES CHIFU",
+          "matricule": "SC26A768",
+          "email": "fai.emory@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 102,
+          "name": "Fien Ita pearl diyen",
+          "matricule": "SC26A769",
+          "email": "fien.ita@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 103,
+          "name": "FOINTAMA ADJEKEZE YUH",
+          "matricule": "SC26A770",
+          "email": "fointama.adjekeze@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 104,
+          "name": "FOLEFAC PERCY",
+          "matricule": "SC26A771",
+          "email": "folefac.percy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 105,
+          "name": "FOMBUTU COLETTE NGULEFAC BORNI",
+          "matricule": "SC26A772",
+          "email": "fombutu.colette@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 106,
+          "name": "FON NGU PRINCELY",
+          "matricule": "SC26A773",
+          "email": "fon.ngu@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 107,
+          "name": "FONGUE SOB DURHEL",
+          "matricule": "SC26A774",
+          "email": "fongue.sob@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 108,
+          "name": "FONONG FRANK-FAITH FANGBENG AKARA",
+          "matricule": "SC26A775",
+          "email": "fonong.frank-faith@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 109,
+          "name": "FORSET JUSTICE NGETINEKOP",
+          "matricule": "SC26A776",
+          "email": "forset.justice@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 110,
+          "name": "FOZAO NZOTAH BLAISE",
+          "matricule": "SC26A777",
+          "email": "fozao.nzotah@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 111,
+          "name": "FRANK EBEN LONDE",
+          "matricule": "SC26A778",
+          "email": "frank.eben@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 112,
+          "name": "FRED-BRINSTON EFENJELE JAWEAH KEKA",
+          "matricule": "SC26A779",
+          "email": "fred-brinston.efenjele@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 113,
+          "name": "FRU ANTHONY NJI",
+          "matricule": "SC26A780",
+          "email": "fru.anthony@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 114,
+          "name": "FUNGWI APOLLINARIS NCHAM",
+          "matricule": "SC26A781",
+          "email": "fungwi.apollinaris@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 115,
+          "name": "FUNWI PRINCEWILL NJINWI",
+          "matricule": "SC26A782",
+          "email": "funwi.princewill@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 116,
+          "name": "FUSUNG NABIL ALLO",
+          "matricule": "SC26A783",
+          "email": "fusung.nabil@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 117,
+          "name": "GAMUH RODRICK DEMA",
+          "matricule": "SC26A784",
+          "email": "gamuh.rodrick@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 118,
+          "name": "GRAI NATHAN DOUB-LI",
+          "matricule": "SC26A785",
+          "email": "grai.nathan@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 119,
+          "name": "HALLE GREATWILL AZOH-MBI",
+          "matricule": "SC26A787",
+          "email": "halle.greatwill@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 120,
+          "name": "IBEKU BRENDALINE BASUMBEKE",
+          "matricule": "SC26A788",
+          "email": "ibeku.brendaline@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 121,
+          "name": "INGBE GAMALIEL MENUE",
+          "matricule": "SC26A789",
+          "email": "ingbe.gamaliel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 122,
+          "name": "ITOE BORIS NGANDO",
+          "matricule": "SC26A790",
+          "email": "itoe.boris@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 123,
+          "name": "JANI CAVELL SAMKEHA",
+          "matricule": "SC26C246",
+          "email": "jani.cavell@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 124,
+          "name": "JEMIMAH APONGSE AYAFOR",
+          "matricule": "SC26A791",
+          "email": "jemimah.apongse@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 125,
+          "name": "JITZI HOPE KFUKFU",
+          "matricule": "SC26A792",
+          "email": "jitzi.hope@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 126,
+          "name": "KAMAHA JIM-ROY CHONA",
+          "matricule": "SC26A793",
+          "email": "kamaha.jim-roy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 127,
+          "name": "KASHIM NELLEN IBRAHIM TALA",
+          "matricule": "SC26A794",
+          "email": "kashim.nellen@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 128,
+          "name": "KEMEGNI TCHOUANGANG YVAN JUNIOR",
+          "matricule": "SC26A795",
+          "email": "kemegni.tchouangang@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 129,
+          "name": "KENFACK FEUDJIO SOBGO NISSI",
+          "matricule": "SC26A796",
+          "email": "kenfack.feudjio@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 130,
+          "name": "KEZONG PRETTY KAWAH MBOM",
+          "matricule": "SC26A797",
+          "email": "kezong.pretty@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 131,
+          "name": "KIAM ENDAH GUY",
+          "matricule": "SC26C247",
+          "email": "kiam.endah@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 132,
+          "name": "KIAMPI SONKOUE RYAN",
+          "matricule": "SC26A798",
+          "email": "kiampi.sonkoue@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 133,
+          "name": "KIMBI RUTH MBOH",
+          "matricule": "SC26A799",
+          "email": "kimbi.ruth@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 134,
+          "name": "KIYANG ISRAEL ANYAM-JUNIOR",
+          "matricule": "SC26A800",
+          "email": "kiyang.israel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 135,
+          "name": "KOME BAYAN NKEDE",
+          "matricule": "SC26A801",
+          "email": "kome.bayan@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 136,
+          "name": "KONGNYU ROGER TAFOR",
+          "matricule": "SC26A802",
+          "email": "kongnyu.roger@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 137,
+          "name": "KOUROU SHEY WELLIS PRECIOUS",
+          "matricule": "SC26A803",
+          "email": "kourou.shey@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 138,
+          "name": "KUDIANG FRANCOIS MENDI",
+          "matricule": "SC26A804",
+          "email": "kudiang.francois@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 139,
+          "name": "KUHSEMBOM FIONA AGIAM",
+          "matricule": "SC26A805",
+          "email": "kuhsembom.fiona@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 140,
+          "name": "KUM PROVIDENCE SIH",
+          "matricule": "SC26C248",
+          "email": "kum.providence@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 141,
+          "name": "KUNJONG FORTUNATE ATONIMBOM",
+          "matricule": "SC26A806",
+          "email": "kunjong.fortunate@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 142,
+          "name": "KWANGA NKANBI ARIEL NATHAN",
+          "matricule": "SC26A807",
+          "email": "kwanga.nkanbi@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 143,
+          "name": "LAURENEMAXIMERAMEAUX",
+          "matricule": "SC26A808",
+          "email": "laurenemaximerameaux@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 144,
+          "name": "LOGANG SIMETCHO ARSENE DELPHIN",
+          "matricule": "SC26A809",
+          "email": "logang.simetcho@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 145,
+          "name": "LYONGA PURE IGONOKO OBASE EYOME",
+          "matricule": "SC26A810",
+          "email": "lyonga.pure@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 146,
+          "name": "LYONGA VICTORY UWEH NJOMBE",
+          "matricule": "SC26C249",
+          "email": "lyonga.victory@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 147,
+          "name": "MAGOUOC FOPA SORAYA NYSRINE",
+          "matricule": "SC26A811",
+          "email": "magouoc.fopa@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 148,
+          "name": "MAH PRECIOUS GIFT",
+          "matricule": "SC26A812",
+          "email": "mah.precious@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 149,
+          "name": "MAKIA BRYANT ABANDA",
+          "matricule": "SC26A813",
+          "email": "makia.bryant@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 150,
+          "name": "MAKOLE FAVOUR FUH",
+          "matricule": "SC26A814",
+          "email": "makole.favour@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 151,
+          "name": "MAMBO RONIE TAPE",
+          "matricule": "SC26A815",
+          "email": "mambo.ronie@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 152,
+          "name": "MANGA DEFOUEN ANGE SERENA",
+          "matricule": "SC26A816",
+          "email": "manga.defouen@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 153,
+          "name": "MANUEL EFON MIYANWI EWANE",
+          "matricule": "SC26A817",
+          "email": "manuel.efon@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 154,
+          "name": "MARK ENAGHA BECHEM",
+          "matricule": "SC26A818",
+          "email": "mark.enagha@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 155,
+          "name": "MASAFI ELLA FORBENEH",
+          "matricule": "SC26C250",
+          "email": "masafi.ella@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 156,
+          "name": "MAWEL BIKOK THOMAS MESSI",
+          "matricule": "SC26A819",
+          "email": "mawel.bikok@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 157,
+          "name": "MAXWELL NGWEH NGWA",
+          "matricule": "SC26A820",
+          "email": "maxwell.ngweh@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 158,
+          "name": "MAYILLA ROFINA MANBO",
+          "matricule": "SC26A821",
+          "email": "mayilla.rofina@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 159,
+          "name": "MBAH KENDRA BLESSING AGWI",
+          "matricule": "SC26A822",
+          "email": "mbah.kendra@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 160,
+          "name": "MBAIN JUSTINE SHEI",
+          "matricule": "SC26A823",
+          "email": "mbain.justine@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 161,
+          "name": "MBELLA SONGE IVO NDIVE",
+          "matricule": "SC26C251",
+          "email": "mbella.songe@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 162,
+          "name": "MBENJI MAXWEL TATABOT",
+          "matricule": "SC26A824",
+          "email": "mbenji.maxwel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 163,
+          "name": "MBINTO MCBRIAN FANGDA",
+          "matricule": "SC26A825",
+          "email": "mbinto.mcbrian@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 164,
+          "name": "MBONI JOSHUA NYAZOH",
+          "matricule": "SC26A826",
+          "email": "mboni.joshua@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 165,
+          "name": "MBORONG LIONEL SOLII",
+          "matricule": "SC26A827",
+          "email": "mborong.lionel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 166,
+          "name": "MBUNWE KERRY ALVIN NGWANI",
+          "matricule": "SC26A828",
+          "email": "mbunwe.kerry@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 167,
+          "name": "MBWA DIANA BIH JAMEA",
+          "matricule": "SC26A829",
+          "email": "mbwa.diana@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 168,
+          "name": "MEBOKA ABIGAIL OWASU",
+          "matricule": "SC26A830",
+          "email": "meboka.abigail@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 169,
+          "name": "MEKOULOU ZENGUE LUCRIEL ASHLAY",
+          "matricule": "SC26A831",
+          "email": "mekoulou.zengue@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 170,
+          "name": "MEMBONG EBONG MEMBONG",
+          "matricule": "SC26A832",
+          "email": "membong.ebong@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 171,
+          "name": "MEYELAH JOSEPHINE EKOKO",
+          "matricule": "SC26A833",
+          "email": "meyelah.josephine@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 172,
+          "name": "MIMCHE MOUNPAIN ALWARDA LAFLEUR",
+          "matricule": "SC26C252",
+          "email": "mimche.mounpain@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 173,
+          "name": "MOGHO DZIEGA PATRICIA MERVEILLE",
+          "matricule": "SC26A834",
+          "email": "mogho.dziega@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 174,
+          "name": "MOKA JAMES JUNIOR MAYEA",
+          "matricule": "SC26A835",
+          "email": "moka.james@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 175,
+          "name": "MOLIKI NENDA NDABONG",
+          "matricule": "SC26A836",
+          "email": "moliki.nenda@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 176,
+          "name": "MONGONG ROLAND TEKE",
+          "matricule": "SC26C053",
+          "email": "mongong.roland@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 177,
+          "name": "MONONO NGHE GHACHI LESLY NWAMBO",
+          "matricule": "SC26A837",
+          "email": "monono.nghe@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 178,
+          "name": "MORFAW CANICIA ARAH JANJO",
+          "matricule": "SC26A838",
+          "email": "morfaw.canicia@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 179,
+          "name": "MOSIMA MOKONYA JOEL",
+          "matricule": "SC26A839",
+          "email": "mosima.mokonya@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 180,
+          "name": "MUH JOEL NAEL FOMBE",
+          "matricule": "SC26C253",
+          "email": "muh.joel@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 181,
+          "name": "MUNIRA HASHRA ADAMU",
+          "matricule": "SC26A840",
+          "email": "munira.hashra@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 182,
+          "name": "NANKAM MAMBOU REGHIS ISMAEL",
+          "matricule": "SC26A841",
+          "email": "nankam.mambou@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 183,
+          "name": "NCHINDA CHRISTIAN NGALAME",
+          "matricule": "SC26C254",
+          "email": "nchinda.christian@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 184,
+          "name": "NCHUKIE DIVINE DELON NTOHNUI",
+          "matricule": "SC26A842",
+          "email": "nchukie.divine@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 185,
+          "name": "NDE ROMEO MUNDI",
+          "matricule": "SC26A843",
+          "email": "nde.romeo@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 186,
+          "name": "NDHANWI TAGHA GHOGOMU",
+          "matricule": "SC26A844",
+          "email": "ndhanwi.tagha@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 187,
+          "name": "NDITONI JEVIS SANGAI",
+          "matricule": "SC26C490",
+          "email": "nditoni.jevis@ubuea.cm",
+          "admittedDate": "17/10/2026"
+        },
+        {
+          "sn": 188,
+          "name": "NDONFAC FOWANG CHRIS ANUBIS",
+          "matricule": "SC26A845",
+          "email": "ndonfac.fowang@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 189,
+          "name": "NDONGAZEM SUCCESS",
+          "matricule": "SC26A846",
+          "email": "ndongazem.success@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 190,
+          "name": "NDOUMBE KOLLO NKWELLE ARMAND GEORGES",
+          "matricule": "SC26A847",
+          "email": "ndoumbe.kollo@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 191,
+          "name": "Nduesob Blaise NJI",
+          "matricule": "SC26A848",
+          "email": "nduesob.blaise@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 192,
+          "name": "NDZEMUAMFONG FRANKLIN DELANO NSAHNWENYI",
+          "matricule": "SC26A849",
+          "email": "ndzemuamfong.franklin@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 193,
+          "name": "NEBA BONGNWI NGWABE",
+          "matricule": "SC26C255",
+          "email": "neba.bongnwi@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 194,
+          "name": "NEBA MAC-HISAN NGWA",
+          "matricule": "SC26A850",
+          "email": "neba.mac-hisan@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 195,
+          "name": "NEBA STEPHANE FUH",
+          "matricule": "SC26C256",
+          "email": "neba.stephane@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 196,
+          "name": "NEBASINGWEN LETICIA NTOONWI",
+          "matricule": "SC26A851",
+          "email": "nebasingwen.leticia@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 197,
+          "name": "NFOR RAWLINGS WIRNYU",
+          "matricule": "SC26A852",
+          "email": "nfor.rawlings@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 198,
+          "name": "NGABO FRANCISCA MALO",
+          "matricule": "SC26A853",
+          "email": "ngabo.francisca@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 199,
+          "name": "NGALLIA GLIEN NWETBEFUA",
+          "matricule": "SC26A854",
+          "email": "ngallia.glien@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 200,
+          "name": "NGANDJOU CHITA STEPHANE SCOTTY ZAATOO",
+          "matricule": "SC26A855",
+          "email": "ngandjou.chita@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 201,
+          "name": "NGOE DARLINGTON FOSILI NGUNYI",
+          "matricule": "SC26A856",
+          "email": "ngoe.darlington@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 202,
+          "name": "NGOE HOLLINGS MOSANGO",
+          "matricule": "SC26A857",
+          "email": "ngoe.hollings@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 203,
+          "name": "NGOME RICHI-WILLIAMS MOUDJI",
+          "matricule": "SC26A858",
+          "email": "ngome.richi-williams@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 204,
+          "name": "NGONE BRYAN TITUS MESAPE",
+          "matricule": "SC26A859",
+          "email": "ngone.bryan@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 205,
+          "name": "NGONFI NDE LISE NOÉMIE",
+          "matricule": "SC26C257",
+          "email": "ngonfi.nde@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 206,
+          "name": "NGONG RANDY DIANGHA",
+          "matricule": "SC26A860",
+          "email": "ngong.randy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 207,
+          "name": "NGONJO LAURINE-IRENE MANKAH",
+          "matricule": "SC26A861",
+          "email": "ngonjo.laurine-irene@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 208,
+          "name": "NGOUHOUO KARIE MOHAMMED NOURREDINE",
+          "matricule": "SC26A862",
+          "email": "ngouhouo.karie@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 209,
+          "name": "NGUEKEP MERYL GRACE",
+          "matricule": "SC26A863",
+          "email": "nguekep.meryl@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 210,
+          "name": "NGUEUKAM EMEGAM GRACE",
+          "matricule": "SC26A864",
+          "email": "ngueukam.emegam@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 211,
+          "name": "NGUFOR ZIJONG",
+          "matricule": "SC26A865",
+          "email": "ngufor.zijong@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 212,
+          "name": "NGUH CHRISTIAN NGUH",
+          "matricule": "SC26A866",
+          "email": "nguh.christian@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 213,
+          "name": "NGUNYI CHELSY EFUET",
+          "matricule": "SC26A867",
+          "email": "ngunyi.chelsy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 214,
+          "name": "NGWAN NJENWE CALEB",
+          "matricule": "SC26A868",
+          "email": "ngwan.njenwe@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 215,
+          "name": "NGWELA PEDALINE MAFOR",
+          "matricule": "SC26A869",
+          "email": "ngwela.pedaline@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 216,
+          "name": "NING JESHURUN AFUBAI",
+          "matricule": "SC26A870",
+          "email": "ning.jeshurun@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 217,
+          "name": "NINGPEYE SONA FRED",
+          "matricule": "SC26A871",
+          "email": "ningpeye.sona@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 218,
+          "name": "NJANG BRAYAN WALTERS CHICK",
+          "matricule": "SC26A872",
+          "email": "njang.brayan@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 219,
+          "name": "NJECK ANN-FRANN LIMUNGA MUNGET",
+          "matricule": "SC26A873",
+          "email": "njeck.ann-frann@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 220,
+          "name": "NJENU EDNA DINGANA",
+          "matricule": "SC26A874",
+          "email": "njenu.edna@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 221,
+          "name": "NJEYO HUSTINE KEHDINGA",
+          "matricule": "SC26A875",
+          "email": "njeyo.hustine@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 222,
+          "name": "NJI BLESS EMMANUEL ZOUH",
+          "matricule": "SC26C258",
+          "email": "nji.bless@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 223,
+          "name": "NJIE JOHN ELINGE JUNIOR",
+          "matricule": "SC26C259",
+          "email": "njie.john@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 224,
+          "name": "NJOMI CAUVIN FERRARD",
+          "matricule": "SC26A876",
+          "email": "njomi.cauvin@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 225,
+          "name": "NJU ABANG DANIEL ACHENYEN",
+          "matricule": "SC26A877",
+          "email": "nju.abang@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 226,
+          "name": "NKALE NTOKO IMMANUEL",
+          "matricule": "SC26A878",
+          "email": "nkale.ntoko@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 227,
+          "name": "NKEAFU AJEUKOH",
+          "matricule": "SC26A879",
+          "email": "nkeafu.ajeukoh@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 228,
+          "name": "NKEH KARLSON-BRIGHT KENDOH",
+          "matricule": "SC26A880",
+          "email": "nkeh.karlson-bright@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 229,
+          "name": "NKEME BOUYOGO GLORY PRISCILE HEODORA",
+          "matricule": "SC26A881",
+          "email": "nkeme.bouyogo@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 230,
+          "name": "NKENGAFAC OCEANE PURITY",
+          "matricule": "SC26A883",
+          "email": "nkengafac.oceane@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 231,
+          "name": "NKERIFAC ROONEY ASONGNA",
+          "matricule": "SC26A884",
+          "email": "nkerifac.rooney@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 232,
+          "name": "NOBOU DZODA RAOUL JOSPIN",
+          "matricule": "SC26A885",
+          "email": "nobou.dzoda@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 233,
+          "name": "NOUMESSI FRANKLIN",
+          "matricule": "SC26A886",
+          "email": "noumessi.franklin@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 234,
+          "name": "NSON SOSTENE LOUIS",
+          "matricule": "SC26A887",
+          "email": "nson.sostene@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 235,
+          "name": "NTAM SMITH TOH",
+          "matricule": "SC26A888",
+          "email": "ntam.smith@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 236,
+          "name": "NYAH BADEL ESOM",
+          "matricule": "SC26A889",
+          "email": "nyah.badel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 237,
+          "name": "NYAME MONICA FLORA AATIM",
+          "matricule": "SC26A890",
+          "email": "nyame.monica@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 238,
+          "name": "NYINCHUO EURICE",
+          "matricule": "SC26A891",
+          "email": "nyinchuo.eurice@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 239,
+          "name": "NZENGUNG JESSE NCHEUJEUR",
+          "matricule": "SC26A892",
+          "email": "nzengung.jesse@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 240,
+          "name": "OBEN JIM-FAREED NCHONG",
+          "matricule": "SC26A893",
+          "email": "oben.jim-fareed@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 241,
+          "name": "OBENENGU FAITH AYAMBA",
+          "matricule": "SC26C260",
+          "email": "obenengu.faith@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 242,
+          "name": "OBENENGU FAVOUR MANYO",
+          "matricule": "SC26C261",
+          "email": "obenengu.favour@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 243,
+          "name": "OGBUSU PRECIOUS CHUKWUEMEKA",
+          "matricule": "SC26A894",
+          "email": "ogbusu.precious@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 244,
+          "name": "OKALE BRANDON WUDWAH",
+          "matricule": "SC26A895",
+          "email": "okale.brandon@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 245,
+          "name": "ONEGE AYUK TABOT ROSELYN",
+          "matricule": "SC26C262",
+          "email": "onege.ayuk@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 246,
+          "name": "OROCKTAKANG TRACY TABI",
+          "matricule": "SC26A896",
+          "email": "orocktakang.tracy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 247,
+          "name": "OSONG EPEY MARCO-DAVIS",
+          "matricule": "SC26A897",
+          "email": "osong.epey@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 248,
+          "name": "OUNLIMBI TATSA DIVIN",
+          "matricule": "SC26C263",
+          "email": "ounlimbi.tatsa@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 249,
+          "name": "PRINCE ETTA OTANG",
+          "matricule": "SC26A898",
+          "email": "prince.etta@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 250,
+          "name": "PRINCE MEREKE ETU ESONO",
+          "matricule": "SC26A899",
+          "email": "prince.mereke@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 251,
+          "name": "PRINCE SHALOM CHE KOM",
+          "matricule": "SC26A900",
+          "email": "prince.shalom@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 252,
+          "name": "RIMU MALEN QUEEN",
+          "matricule": "SC26C264",
+          "email": "rimu.malen@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 253,
+          "name": "SAKWE FAVOUR DIWENEDA OBASE",
+          "matricule": "SC26A901",
+          "email": "sakwe.favour@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 254,
+          "name": "Sama Dala Destiny",
+          "matricule": "SC26C377",
+          "email": "sama.dala@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 255,
+          "name": "SARAH-PRIDE AMARA ZYUH",
+          "matricule": "SC26A902",
+          "email": "sarah-pride.amara@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 256,
+          "name": "SAYANI CALSON BOFA",
+          "matricule": "SC26A903",
+          "email": "sayani.calson@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 257,
+          "name": "SEAN-KERRY TAZI AKEMFOR",
+          "matricule": "SC26A904",
+          "email": "sean-kerry.tazi@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 258,
+          "name": "SERAPHINE ENJEMA NDUMBE",
+          "matricule": "SC26A905",
+          "email": "seraphine.enjema@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 259,
+          "name": "SIEKAPEN YANKAM YVES LANDRY",
+          "matricule": "SC26A906",
+          "email": "siekapen.yankam@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 260,
+          "name": "SUH DANIEL MFORBISI",
+          "matricule": "SC26A907",
+          "email": "suh.daniel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 261,
+          "name": "TABE RICKSON MANGUH",
+          "matricule": "SC26A908",
+          "email": "tabe.rickson@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 262,
+          "name": "TABE ZACHS JUNIOR ETA",
+          "matricule": "SC26A909",
+          "email": "tabe.zachs@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 263,
+          "name": "TABOU FOKUENG MIGUEL",
+          "matricule": "SC26C265",
+          "email": "tabou.fokueng@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 264,
+          "name": "TAKANG CECILIA MANYOR",
+          "matricule": "SC26C266",
+          "email": "takang.cecilia@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 265,
+          "name": "TAMBE VANVICKER NYENTI",
+          "matricule": "SC26A910",
+          "email": "tambe.vanvicker@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 266,
+          "name": "TAMBI ALBRIGHT BIH TRICIA MANYI",
+          "matricule": "SC26A911",
+          "email": "tambi.albright@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 267,
+          "name": "TANG ROY NGONG",
+          "matricule": "SC26A912",
+          "email": "tang.roy@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 268,
+          "name": "TANGA NESTTA EMBE",
+          "matricule": "SC26C267",
+          "email": "tanga.nestta@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 269,
+          "name": "TANGWE ACHA NASTA EMMANUEL",
+          "matricule": "SC26A913",
+          "email": "tangwe.acha@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 270,
+          "name": "TARKANG ETAH BRIGHT",
+          "matricule": "SC26A914",
+          "email": "tarkang.etah@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 271,
+          "name": "TATAH JEAN-NOEL TARDZENYUY",
+          "matricule": "SC26A915",
+          "email": "tatah.jean-noel@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 272,
+          "name": "TATCHOUANG MABAH ROXANNE",
+          "matricule": "SC26A916",
+          "email": "tatchouang.mabah@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 273,
+          "name": "TCHEUTCHOUA SIGNI VITALIS MICHAEL",
+          "matricule": "SC26A917",
+          "email": "tcheutchoua.signi@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 274,
+          "name": "TCHINDE CHOUSSI EMMANUEL GOLVIN",
+          "matricule": "SC26A918",
+          "email": "tchinde.choussi@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 275,
+          "name": "TEBO BRITHNY CLAIRE ARREY",
+          "matricule": "SC26A919",
+          "email": "tebo.brithny@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 276,
+          "name": "TENDOH KATLYN LINDSY TINGA",
+          "matricule": "SC26A920",
+          "email": "tendoh.katlyn@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 277,
+          "name": "TENDONGMO PRECIOUS FONGANG",
+          "matricule": "SC26A921",
+          "email": "tendongmo.precious@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 278,
+          "name": "TENENG WILFRED JUNIOR",
+          "matricule": "SC26A922",
+          "email": "teneng.wilfred@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 279,
+          "name": "TETANG HOLYSON STEVE",
+          "matricule": "SC26A923",
+          "email": "tetang.holyson@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 280,
+          "name": "TINA MBOGEH FOMBOH",
+          "matricule": "SC26A924",
+          "email": "tina.mbogeh@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 281,
+          "name": "TIOYEM LANGOUO MARC MARIUS",
+          "matricule": "SC26A925",
+          "email": "tioyem.langouo@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 282,
+          "name": "TOFAC PRECIOUS",
+          "matricule": "SC26A926",
+          "email": "tofac.precious@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 283,
+          "name": "TSENWI DAVID CHE",
+          "matricule": "SC26A927",
+          "email": "tsenwi.david@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 284,
+          "name": "TSONA KOUTI TRISMÉGISTE",
+          "matricule": "SC26A928",
+          "email": "tsona.kouti@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 285,
+          "name": "VECHAS VARENCE WALLANG",
+          "matricule": "SC26A929",
+          "email": "vechas.varence@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 286,
+          "name": "VERDZEKOV NEOLLA VERNYUY",
+          "matricule": "SC26A930",
+          "email": "verdzekov.neolla@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 287,
+          "name": "WAMBOU TSANGOP JEREMIE DAVID",
+          "matricule": "SC26A931",
+          "email": "wambou.tsangop@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 288,
+          "name": "WANGUE TCHAKOUNTE NAOMIE PRINCESSE",
+          "matricule": "SC26A932",
+          "email": "wangue.tchakounte@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 289,
+          "name": "WANKA NWACHOP RENE FOMBUH",
+          "matricule": "SC26A933",
+          "email": "wanka.nwachop@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 290,
+          "name": "WEDAM MAFODAM GABRIELLE AUDREY",
+          "matricule": "SC26A934",
+          "email": "wedam.mafodam@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 291,
+          "name": "WIRBA CALEB KONGYUY",
+          "matricule": "SC26A935",
+          "email": "wirba.caleb@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 292,
+          "name": "WIRNGO LAURA FONYUY",
+          "matricule": "SC26A936",
+          "email": "wirngo.laura@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 293,
+          "name": "WISDOM IKOSE OTUMINDE",
+          "matricule": "SC26A937",
+          "email": "wisdom.ikose@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 294,
+          "name": "YAHDIMA RUTH",
+          "matricule": "SC26A938",
+          "email": "yahdima.ruth@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        },
+        {
+          "sn": 295,
+          "name": "YAMKAN RANSOM NJONWI",
+          "matricule": "SC26C268",
+          "email": "yamkan.ransom@ubuea.cm",
+          "admittedDate": "02/10/2026"
+        },
+        {
+          "sn": 296,
+          "name": "ZONG EDITH MOH",
+          "matricule": "SC26A939",
+          "email": "zong.edith@ubuea.cm",
+          "admittedDate": "17/09/2026"
+        }
+      ]
+    },
+    {
+      "academicYear": "2025/2026",
+      "count": 364,
+      "students": [
+        {
+          "sn": 1,
+          "name": "DEFO K. RENE IGOR",
+          "matricule": "SC25B640",
+          "email": "defo.rene@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 2,
+          "name": "ABANDA JUNIOR",
+          "matricule": "SC25B641",
+          "email": "abanda.junior@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 3,
+          "name": "ABEH CHUMBON",
+          "matricule": "SC25B642",
+          "email": "abeh.chumbon@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 4,
+          "name": "ABUNAW EMMANUEL EBOTNCHUNG",
+          "matricule": "SC25B643",
+          "email": "abunaw.emmanuel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 5,
+          "name": "ACHA EVARIS NEMBO",
+          "matricule": "SC25B644",
+          "email": "acha.evaris@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 6,
+          "name": "ACHA NJICHA AMINKENG",
+          "matricule": "SC25B645",
+          "email": "acha.njicha@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 7,
+          "name": "ACHALEFEH GORDEN BEZUA",
+          "matricule": "SC25B646",
+          "email": "achalefeh.gorden@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 8,
+          "name": "ACHE HILARY BILINGWE",
+          "matricule": "SC25B647",
+          "email": "ache.hilary@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 9,
+          "name": "ADAMOU MAIKANO",
+          "matricule": "SC25B648",
+          "email": "adamou.maikano@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 10,
+          "name": "AFUH CALEXTE NDUFONG",
+          "matricule": "SC25B649",
+          "email": "afuh.calexte@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 11,
+          "name": "AGBOR FRANK EBOT-NSO",
+          "matricule": "SC25B650",
+          "email": "agbor.frank@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 12,
+          "name": "AGBOR-AWI OROCKNFOR",
+          "matricule": "SC25B651",
+          "email": "agbor-awi.orocknfor@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 13,
+          "name": "AGEN PERSIS EKILI",
+          "matricule": "SC25B652",
+          "email": "agen.persis@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 14,
+          "name": "AHONE PALLE EWANE",
+          "matricule": "SC25B653",
+          "email": "ahone.palle@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 15,
+          "name": "AIME JACQUES NKONGHO ELLA",
+          "matricule": "SC25B654",
+          "email": "aime.jacques@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 16,
+          "name": "AISHATOU BERI",
+          "matricule": "SC25B655",
+          "email": "aishatou.beri@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 17,
+          "name": "AIYUK RANDY AKASONG",
+          "matricule": "SC25B656",
+          "email": "aiyuk.randy@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 18,
+          "name": "AJECK BRIGHTNEY MOTALE",
+          "matricule": "SC25B657",
+          "email": "ajeck.brightney@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 19,
+          "name": "AKEAWUNG COLINE TENDONG",
+          "matricule": "SC25B658",
+          "email": "akeawung.coline@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 20,
+          "name": "AKO DAMARIS TAMBE",
+          "matricule": "SC25B659",
+          "email": "ako.damaris@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 21,
+          "name": "AMBE RYAN",
+          "matricule": "SC25B660",
+          "email": "ambe.ryan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 22,
+          "name": "AMBOH RANDY-NOEL FONJI",
+          "matricule": "SC25B661",
+          "email": "amboh.randy-noel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 23,
+          "name": "Amindeh Leke Atehnchong",
+          "matricule": "SC25B662",
+          "email": "amindeh.leke@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 24,
+          "name": "AMINKENG DERHUDA ESA",
+          "matricule": "SC25B663",
+          "email": "aminkeng.derhuda@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 25,
+          "name": "ANDU CECILIA MOSONGO EKALE",
+          "matricule": "SC25B664",
+          "email": "andu.cecilia@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 26,
+          "name": "ANGWI LORIETA MBAHNYAM",
+          "matricule": "SC25B665",
+          "email": "angwi.lorieta@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 27,
+          "name": "ANGWI SWANCY NJEI",
+          "matricule": "SC25B666",
+          "email": "angwi.swancy@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 28,
+          "name": "ANKIAZI ROSINE TAJOCHA",
+          "matricule": "SC25B667",
+          "email": "ankiazi.rosine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 29,
+          "name": "ANYE NATHANIEL FRUNGWA",
+          "matricule": "SC25B668",
+          "email": "anye.nathaniel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 30,
+          "name": "ANYICHA PRINCE",
+          "matricule": "SC25B669",
+          "email": "anyicha.prince@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 31,
+          "name": "ANYONG RODNEY AKENJI",
+          "matricule": "SC25B670",
+          "email": "anyong.rodney@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 32,
+          "name": "APOH BRANDON EKEMO",
+          "matricule": "SC25B671",
+          "email": "apoh.brandon@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 33,
+          "name": "ARREY JULIE MA-EYONGOBI",
+          "matricule": "SC25B672",
+          "email": "arrey.julie@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 34,
+          "name": "ASAAH MOUSTAPHA ANYAMBOD",
+          "matricule": "SC25B673",
+          "email": "asaah.moustapha@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 35,
+          "name": "ASANGWING JUSTY-SYLVIANE MEFOR",
+          "matricule": "SC25B674",
+          "email": "asangwing.justy-sylviane@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 36,
+          "name": "ASHU EBOT ETTA RANDY",
+          "matricule": "SC25B675",
+          "email": "ashu.ebot@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 37,
+          "name": "ASHU FAITH ASHU",
+          "matricule": "SC25B676",
+          "email": "ashu.faith@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 38,
+          "name": "ASHU GLENIS EYA",
+          "matricule": "SC25B677",
+          "email": "ashu.glenis@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 39,
+          "name": "ASONDO BRYAN WUNDE",
+          "matricule": "SC25B678",
+          "email": "asondo.bryan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 40,
+          "name": "ASONGANYI ESATENGANG GERTRUDE",
+          "matricule": "SC25B679",
+          "email": "asonganyi.esatengang@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 41,
+          "name": "ATABEJAH GILBERT NGWANE",
+          "matricule": "SC25B680",
+          "email": "atabejah.gilbert@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 42,
+          "name": "ATANGA EMMANUEL YIIRINWI",
+          "matricule": "SC25B681",
+          "email": "atanga.emmanuel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 43,
+          "name": "ATEAZE BEQUIKEH",
+          "matricule": "SC25B682",
+          "email": "ateaze.bequikeh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 44,
+          "name": "ATEH-NJINGO TRUST-GESU SENIOR",
+          "matricule": "SC25B683",
+          "email": "ateh-njingo.trust-gesu@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 45,
+          "name": "ATELEFACK BROLIN JIFACK",
+          "matricule": "SC25B684",
+          "email": "atelefack.brolin@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 46,
+          "name": "ATEM AMSTRONG EBOT",
+          "matricule": "SC25B685",
+          "email": "atem.amstrong@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 47,
+          "name": "ATEMAFEH TAJOACHA FOMINKA",
+          "matricule": "SC25B686",
+          "email": "atemafeh.tajoacha@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 48,
+          "name": "ATEMOKANG PROSPER ENOB",
+          "matricule": "SC25B687",
+          "email": "atemokang.prosper@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 49,
+          "name": "AV'NZIA YOSHUA HALLELUJAH",
+          "matricule": "SC25B688",
+          "email": "av'nzia.@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 50,
+          "name": "AWA JOEL PAYN",
+          "matricule": "SC25B689",
+          "email": "awa.joel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 51,
+          "name": "AWANDA COLLIN ANYOH",
+          "matricule": "SC25B690",
+          "email": "awanda.collin@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 52,
+          "name": "AWUNGJIA CAROLINE AVILAH NDIFOR",
+          "matricule": "SC25B691",
+          "email": "awungjia.caroline@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 53,
+          "name": "AYAMBA KATE-CONFIDENCE OBONG",
+          "matricule": "SC25B692",
+          "email": "ayamba.kate-confidence@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 54,
+          "name": "AYENIKA AURELIA BERINYUY",
+          "matricule": "SC25B693",
+          "email": "ayenika.aurelia@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 55,
+          "name": "AYUK BRIGHTLY NGA-EYONG BESONG",
+          "matricule": "SC25B694",
+          "email": "ayuk.brightly@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 56,
+          "name": "AYUK CHELSIE NYENTI",
+          "matricule": "SC25B695",
+          "email": "ayuk.chelsie@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 57,
+          "name": "AYUK PLEASANT AGBOR",
+          "matricule": "SC25B696",
+          "email": "ayuk.pleasant@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 58,
+          "name": "AYUK PRECIOUS JOAN ENOH",
+          "matricule": "SC25B697",
+          "email": "ayuk.precious@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 59,
+          "name": "AYUK-TABI CHRISTJETA ASHU",
+          "matricule": "SC25B698",
+          "email": "ayuk-tabi.christjeta@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 60,
+          "name": "AYUKNCHONG AYUKEBANGHA JOSEA",
+          "matricule": "SC25B699",
+          "email": "ayuknchong.ayukebangha@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 61,
+          "name": "AZEMNJI ALPHA AMBE",
+          "matricule": "SC25B700",
+          "email": "azemnji.alpha@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 62,
+          "name": "BACOP FRANK JONAS",
+          "matricule": "SC25B701",
+          "email": "bacop.frank@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 63,
+          "name": "BAKOMA MICHAEL MISODI",
+          "matricule": "SC25B702",
+          "email": "bakoma.michael@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 64,
+          "name": "BAMNJO STEPHEN SEMIRNYUY",
+          "matricule": "SC25B703",
+          "email": "bamnjo.stephen@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 65,
+          "name": "BARACK OBAMA VICTORY MAYER YOUNG",
+          "matricule": "SC25B704",
+          "email": "barack.obama@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 66,
+          "name": "BATE PRECIOUS CHI",
+          "matricule": "SC25B705",
+          "email": "bate.precious@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 67,
+          "name": "BAWE TANZIL VERNYUY",
+          "matricule": "SC25B706",
+          "email": "bawe.tanzil@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 68,
+          "name": "BECKY NAMONDO MODIKA",
+          "matricule": "SC25B707",
+          "email": "becky.namondo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 69,
+          "name": "BELOE NDOLO NYEKA-SANGA",
+          "matricule": "SC25B708",
+          "email": "beloe.ndolo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 70,
+          "name": "BESONG AYIM TAKOW AYUKNGWAYA",
+          "matricule": "SC25B709",
+          "email": "besong.ayim@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 71,
+          "name": "BESONG DARLINTON MBI",
+          "matricule": "SC25B710",
+          "email": "besong.darlinton@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 72,
+          "name": "BESONG JEFFERSON MANYOR",
+          "matricule": "SC25B711",
+          "email": "besong.jefferson@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 73,
+          "name": "BESONG KELVIN OBI",
+          "matricule": "SC25B712",
+          "email": "besong.kelvin@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 74,
+          "name": "BESUMBU CHRISTOPHER BESUMBU",
+          "matricule": "SC25B713",
+          "email": "besumbu.christopher@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 75,
+          "name": "BEZE OMBAKS NJULEFEH JONES",
+          "matricule": "SC25B714",
+          "email": "beze.ombaks@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 76,
+          "name": "BLISS NEY GAMKONG",
+          "matricule": "SC25B715",
+          "email": "bliss.ney@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 77,
+          "name": "BOBGA BRADLEY TAAH DOHBIT",
+          "matricule": "SC25B716",
+          "email": "bobga.bradley@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 78,
+          "name": "BONGYI EMMANUEL MEDES NYARKA",
+          "matricule": "SC25B717",
+          "email": "bongyi.emmanuel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 79,
+          "name": "BONOK FRANK BORIS BETINDI",
+          "matricule": "SC25B718",
+          "email": "bonok.frank@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 80,
+          "name": "BRIAN-AUSTIN SHIEZI MBE JR",
+          "matricule": "SC25B719",
+          "email": "brian-austin.shiezi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 81,
+          "name": "BRIGHT NGU FOMBOSOH",
+          "matricule": "SC25B720",
+          "email": "bright.ngu@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 82,
+          "name": "BROH PRAISE NWIEKERE FON",
+          "matricule": "SC25B721",
+          "email": "broh.praise@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 83,
+          "name": "BUH ALAIN THOMAS ACQUINAS MOMJANG",
+          "matricule": "SC25B722",
+          "email": "buh.alain@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 84,
+          "name": "BUMA BRYAN KUMBEGA",
+          "matricule": "SC25C423",
+          "email": "buma.bryan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 85,
+          "name": "CARL EKEKE EKONDE MOLUA",
+          "matricule": "SC25B723",
+          "email": "carl.ekeke@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 86,
+          "name": "CHAFACK BECKLINE",
+          "matricule": "SC25B724",
+          "email": "chafack.beckline@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 87,
+          "name": "CHAH TREASURE NANGKUH",
+          "matricule": "SC25B725",
+          "email": "chah.treasure@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 88,
+          "name": "CHANG NELLY BROWN BONG",
+          "matricule": "SC25B726",
+          "email": "chang.nelly@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 89,
+          "name": "CHE PRECIOUS-TINA EKEP",
+          "matricule": "SC25B727",
+          "email": "che.precious-tina@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 90,
+          "name": "CHICK KRYS EKAINJEH",
+          "matricule": "SC25B728",
+          "email": "chick.krys@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 91,
+          "name": "CHRANUI ALEX TASHA",
+          "matricule": "SC25B729",
+          "email": "chranui.alex@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 92,
+          "name": "CHUFUH LEMUEL KWINYICK",
+          "matricule": "SC25B730",
+          "email": "chufuh.lemuel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 93,
+          "name": "CHUYEH DEMIAN NGALA",
+          "matricule": "SC25B731",
+          "email": "chuyeh.demian@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 94,
+          "name": "CLARA ORNEGE AGBOR BESONG",
+          "matricule": "SC25B732",
+          "email": "clara.ornege@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 95,
+          "name": "DAAWE GUISWE HERMANN",
+          "matricule": "SC25B733",
+          "email": "daawe.guiswe@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 96,
+          "name": "DABOSE WARLISE ABUBAKA",
+          "matricule": "SC25B734",
+          "email": "dabose.warlise@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 97,
+          "name": "DAREN DUSTIN NEBA FUHNWE",
+          "matricule": "SC25B735",
+          "email": "daren.dustin@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 98,
+          "name": "Delfort Timak Emmanuel",
+          "matricule": "SC25B736",
+          "email": "delfort.timak@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 99,
+          "name": "DIBOBE MARTIN CHRISTIAN",
+          "matricule": "SC25C869",
+          "email": "dibobe.martin@ubuea.cm",
+          "admittedDate": "03/11/2025"
+        },
+        {
+          "sn": 100,
+          "name": "DJARA ANGE RENEE ESTELLE",
+          "matricule": "SC25B737",
+          "email": "djara.ange@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 101,
+          "name": "DJIAZE TSAMO CEDRIC JUNIOR",
+          "matricule": "SC25B738",
+          "email": "djiaze.tsamo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 102,
+          "name": "DJIEDEU DJéRAYOM FRANCK DASYLVA",
+          "matricule": "SC25B739",
+          "email": "djiedeu.djérayom@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 103,
+          "name": "DOUNTIO TIFFE DESLINE",
+          "matricule": "SC25B740",
+          "email": "dountio.tiffe@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 104,
+          "name": "EBAI ENOW BRADLEY ASSIM",
+          "matricule": "SC25B741",
+          "email": "ebai.enow@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 105,
+          "name": "EBAI WISDOM AYUK",
+          "matricule": "SC25B742",
+          "email": "ebai.wisdom@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 106,
+          "name": "EBAI- SAME DANIELLA- PACKSON MANGHA",
+          "matricule": "SC25B743",
+          "email": "ebai-.same@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 107,
+          "name": "EBONGKOME JERMAIN EBONGKOME",
+          "matricule": "SC25B744",
+          "email": "ebongkome.jermain@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 108,
+          "name": "ECHARI NICOLAS SARKOZY",
+          "matricule": "SC25B745",
+          "email": "echari.nicolas@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 109,
+          "name": "EFUFA MOKATA JR.",
+          "matricule": "SC25B746",
+          "email": "efufa.mokata@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 110,
+          "name": "EGBE ANGELO BRIGHT",
+          "matricule": "SC25B747",
+          "email": "egbe.angelo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 111,
+          "name": "EGBE AYABA LORDSON NDAH",
+          "matricule": "SC25B748",
+          "email": "egbe.ayaba@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 112,
+          "name": "EHO-OLONG FLORENCE-VERA NDOBE",
+          "matricule": "SC25B749",
+          "email": "eho-olong.florence-vera@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 113,
+          "name": "EKANE NZUMBE EBAH",
+          "matricule": "SC25B750",
+          "email": "ekane.nzumbe@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 114,
+          "name": "EKENJEH PRINCEWILL AKAME",
+          "matricule": "SC25B751",
+          "email": "ekenjeh.princewill@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 115,
+          "name": "EKINDE ETONE VICTORY",
+          "matricule": "SC25B752",
+          "email": "ekinde.etone@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 116,
+          "name": "EKWEH SANDRA EMADE",
+          "matricule": "SC25B753",
+          "email": "ekweh.sandra@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 117,
+          "name": "EKWOGE DESMOND NTONGWE",
+          "matricule": "SC25B754",
+          "email": "ekwoge.desmond@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 118,
+          "name": "EKWOGE LEONEL ESAMBE",
+          "matricule": "SC25B755",
+          "email": "ekwoge.leonel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 119,
+          "name": "ELAH EKANGWE",
+          "matricule": "SC25B756",
+          "email": "elah.ekangwe@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 120,
+          "name": "ELINGE PRECIOUS EWUSI JR",
+          "matricule": "SC25B757",
+          "email": "elinge.precious@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 121,
+          "name": "EMMANUEL NEBA SHU",
+          "matricule": "SC25B758",
+          "email": "emmanuel.neba@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 122,
+          "name": "EMMANUEL OROCK OROCK",
+          "matricule": "SC25D022",
+          "email": "emmanuel.orock@ubuea.cm",
+          "admittedDate": "03/11/2025"
+        },
+        {
+          "sn": 123,
+          "name": "ENONE EBONG FORTUNE MORGAN",
+          "matricule": "SC25B759",
+          "email": "enone.ebong@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 124,
+          "name": "ESEH JERILYN PASSY MESAMENAH",
+          "matricule": "SC25B761",
+          "email": "eseh.jerilyn@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 125,
+          "name": "ETCHI FRED AKO",
+          "matricule": "SC25B762",
+          "email": "etchi.fred@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 126,
+          "name": "ETCHI VANESSA-JOY OBEN",
+          "matricule": "SC25B763",
+          "email": "etchi.vanessa-joy@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 127,
+          "name": "ETUBE EMADE MARILYN PRETTY",
+          "matricule": "SC25B764",
+          "email": "etube.emade@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 128,
+          "name": "EWANE RANDY EPIE NKUMBE",
+          "matricule": "SC25B765",
+          "email": "ewane.randy@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 129,
+          "name": "EXCEL FORTUNE EPIE",
+          "matricule": "SC25B766",
+          "email": "excel.fortune@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 130,
+          "name": "EYABI FRANK OKIE",
+          "matricule": "SC25B767",
+          "email": "eyabi.frank@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 131,
+          "name": "FAITH AJAPWOH ALEM",
+          "matricule": "SC25B768",
+          "email": "faith.ajapwoh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 132,
+          "name": "FANKAM KAMGA BRUNO JUNIOR",
+          "matricule": "SC25B769",
+          "email": "fankam.kamga@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 133,
+          "name": "FOBASSO JASON SOCKNIA",
+          "matricule": "SC25B770",
+          "email": "fobasso.jason@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 134,
+          "name": "FOFANG DDENZEL-JUDE ANYE",
+          "matricule": "SC25B771",
+          "email": "fofang.ddenzel-jude@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 135,
+          "name": "FOLETIA FONGWA BRYAN PRISLEY",
+          "matricule": "SC25B772",
+          "email": "foletia.fongwa@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 136,
+          "name": "FONJONG CALEB FOBANG",
+          "matricule": "SC25B773",
+          "email": "fonjong.caleb@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 137,
+          "name": "FOPA YONTAMENE MARIELLE",
+          "matricule": "SC25B774",
+          "email": "fopa.yontamene@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 138,
+          "name": "FORBIN ANU WILLIET",
+          "matricule": "SC25B775",
+          "email": "forbin.anu@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 139,
+          "name": "FOTSING DJOUALA HILARIE GOINDOLINE",
+          "matricule": "SC25B776",
+          "email": "fotsing.djouala@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 140,
+          "name": "FOY FORTUNATE EKEI",
+          "matricule": "SC25B777",
+          "email": "foy.fortunate@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 141,
+          "name": "FUH RYAN DANG",
+          "matricule": "SC25B778",
+          "email": "fuh.ryan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 142,
+          "name": "FUHNWI RYAN-TREASURE AZINGWI",
+          "matricule": "SC25B779",
+          "email": "fuhnwi.ryan-treasure@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 143,
+          "name": "FUNJEM EMMANUEL BRAD YUFENYUY",
+          "matricule": "SC25B780",
+          "email": "funjem.emmanuel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 144,
+          "name": "GAKANOU DJEMENI MARC STILLY'S",
+          "matricule": "SC25B781",
+          "email": "gakanou.djemeni@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 145,
+          "name": "GANA LIONARD MUTA NJOKE",
+          "matricule": "SC25B782",
+          "email": "gana.lionard@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 146,
+          "name": "GEMDA PAUL NANA",
+          "matricule": "SC25B783",
+          "email": "gemda.paul@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 147,
+          "name": "GIFT ELINGE LYONGA",
+          "matricule": "SC25B784",
+          "email": "gift.elinge@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 148,
+          "name": "GODWILL NCHUMULUH",
+          "matricule": "SC25B785",
+          "email": "godwill.nchumuluh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 149,
+          "name": "GOLA MALIK-SMITH YIRANNE",
+          "matricule": "SC25B786",
+          "email": "gola.malik-smith@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 150,
+          "name": "GOSPEL FON TAH",
+          "matricule": "SC25B787",
+          "email": "gospel.fon@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 151,
+          "name": "GRACE AYENDEM PUTA",
+          "matricule": "SC25B788",
+          "email": "grace.ayendem@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 152,
+          "name": "GUEMDOM TEFANG IRENE",
+          "matricule": "SC25B789",
+          "email": "guemdom.tefang@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 153,
+          "name": "HALLE GREATWILL AZOH-MBI",
+          "matricule": "SC25B790",
+          "email": "halle.greatwill@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 154,
+          "name": "ISABEL NGUM KUBAN",
+          "matricule": "SC25B791",
+          "email": "isabel.ngum@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 155,
+          "name": "ISMAEL AHMED MOUSTAPHA",
+          "matricule": "SC25B792",
+          "email": "ismael.ahmed@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 156,
+          "name": "ISREAL WISDOM UMAR",
+          "matricule": "SC25B793",
+          "email": "isreal.wisdom@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 157,
+          "name": "JESSE AMMIEL ILOME KOMBE",
+          "matricule": "SC25B794",
+          "email": "jesse.ammiel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 158,
+          "name": "JOB WABILA MASALLA",
+          "matricule": "SC25B795",
+          "email": "job.wabila@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 159,
+          "name": "JOHN TAKU YOSENGWE",
+          "matricule": "SC25B796",
+          "email": "john.taku@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 160,
+          "name": "JOSHUA ALOBWEDE APUGETUGE",
+          "matricule": "SC25B797",
+          "email": "joshua.alobwede@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 161,
+          "name": "KAAH EDMOND NSHOM",
+          "matricule": "SC25B798",
+          "email": "kaah.edmond@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 162,
+          "name": "KABI KABI JEAN PAUL II",
+          "matricule": "SC25B799",
+          "email": "kabi.kabi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 163,
+          "name": "KAMANI KAMANJI PRECIOUS",
+          "matricule": "SC25B800",
+          "email": "kamani.@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 164,
+          "name": "KAPNANG KAMGUE RAYAN JUNIOR",
+          "matricule": "SC25B801",
+          "email": "kapnang.kamgue@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 165,
+          "name": "KARI KINGSLEY",
+          "matricule": "SC25B802",
+          "email": "kari.kingsley@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 166,
+          "name": "KATTE FRANKLIN KEUMAMI",
+          "matricule": "SC25B803",
+          "email": "katte.franklin@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 167,
+          "name": "KATTY EYOME SAKWE",
+          "matricule": "SC25B804",
+          "email": "katty.eyome@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 168,
+          "name": "KENDAH JOHN BRAYAN",
+          "matricule": "SC25B805",
+          "email": "kendah.john@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 169,
+          "name": "KENGNE OUAMBO TANGAM GALAXY MOISE",
+          "matricule": "SC25B806",
+          "email": "kengne.ouambo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 170,
+          "name": "KENGNE TAGNE DENIZ",
+          "matricule": "SC25B807",
+          "email": "kengne.tagne@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 171,
+          "name": "KENGNI SATCHA SAMIRA DARELLE",
+          "matricule": "SC25B808",
+          "email": "kengni.satcha@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 172,
+          "name": "KENZO MIRADAIRE NAOUSSI",
+          "matricule": "SC25B809",
+          "email": "kenzo.miradaire@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 173,
+          "name": "KEVIN AKATEH FOHBA",
+          "matricule": "SC25B810",
+          "email": "kevin.akateh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 174,
+          "name": "KINGE PRINCELY NJONJE",
+          "matricule": "SC25B811",
+          "email": "kinge.princely@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 175,
+          "name": "KINSA RYAN BECLIN",
+          "matricule": "SC25B812",
+          "email": "kinsa.ryan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 176,
+          "name": "KOFI NGANDA NASAKO-NDOYE",
+          "matricule": "SC25B813",
+          "email": "kofi.nganda@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 177,
+          "name": "KOME JERRY NNOKO",
+          "matricule": "SC25B814",
+          "email": "kome.jerry@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 178,
+          "name": "KONGENDILLE MARY-LUCIA MBINZE",
+          "matricule": "SC25B815",
+          "email": "kongendille.mary-lucia@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 179,
+          "name": "KUATE DZUPIAP GUIFO CHRISTOPHER SCOTT",
+          "matricule": "SC25B816",
+          "email": "kuate.dzupiap@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 180,
+          "name": "KWA MAXWILL MUA",
+          "matricule": "SC25B817",
+          "email": "kwa.maxwill@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 181,
+          "name": "KWASHINI TAGHA GHOGOMU",
+          "matricule": "SC25B818",
+          "email": "kwashini.tagha@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 182,
+          "name": "KWEDJA NDJATANG FOMEN MIKE FLOID",
+          "matricule": "SC25B819",
+          "email": "kwedja.ndjatang@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 183,
+          "name": "LANCHEN NESVELYN ABANKE",
+          "matricule": "SC25B820",
+          "email": "lanchen.@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 184,
+          "name": "LANGSI REMI BENGYELA",
+          "matricule": "SC25B821",
+          "email": "langsi.remi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 185,
+          "name": "LEELEN NYUYSONI ASHERI",
+          "matricule": "SC25B822",
+          "email": "leelen.nyuysoni@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 186,
+          "name": "LEH TOBIAS BERINYUY",
+          "matricule": "SC25B823",
+          "email": "leh.tobias@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 187,
+          "name": "LEKELEFAC VICTUS LEKE",
+          "matricule": "SC25B824",
+          "email": "lekelefac.victus@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 188,
+          "name": "LENIS NEMANDE N",
+          "matricule": "SC25B825",
+          "email": "lenis.nemande@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 189,
+          "name": "LIMEN MICHAEL KWOIMEGNI",
+          "matricule": "SC25B826",
+          "email": "limen.michael@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 190,
+          "name": "LONKENG SAPGUI MEGANE",
+          "matricule": "SC25B827",
+          "email": "lonkeng.sapgui@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 191,
+          "name": "LUKONG SEDRICK MBIYDZENYUY",
+          "matricule": "SC25B828",
+          "email": "lukong.sedrick@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 192,
+          "name": "LUM PRECIOUS FRU",
+          "matricule": "SC25B829",
+          "email": "lum.precious@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 193,
+          "name": "LUMA CHRISPARR NGALE JOMIA",
+          "matricule": "SC25B830",
+          "email": "luma.chrisparr@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 194,
+          "name": "MAILI NEH SOUNGE YOUFEGNUY",
+          "matricule": "SC25B831",
+          "email": "maili.neh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 195,
+          "name": "MAMBELENDEM NJOCK ELUMBA",
+          "matricule": "SC25B832",
+          "email": "mambelendem.njock@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 196,
+          "name": "MANGI MARVELOUS FUEH",
+          "matricule": "SC25B833",
+          "email": "mangi.marvelous@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 197,
+          "name": "MARY-ANGEL NANGA-BI FOTEH",
+          "matricule": "SC25B834",
+          "email": "mary-angel.nanga-bi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 198,
+          "name": "MATTIMBA FAVOUR TANEFOM",
+          "matricule": "SC25B835",
+          "email": "mattimba.favour@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 199,
+          "name": "MBAH ABIGALE NAHJELA",
+          "matricule": "SC25B836",
+          "email": "mbah.abigale@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 200,
+          "name": "MBAH DANIELA ANWI",
+          "matricule": "SC25B837",
+          "email": "mbah.daniela@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 201,
+          "name": "MBAH TEKOCK GUSTAVE",
+          "matricule": "SC25B838",
+          "email": "mbah.tekock@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 202,
+          "name": "MBAKU NEYEH FESTILIA ABECK",
+          "matricule": "SC25B839",
+          "email": "mbaku.neyeh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 203,
+          "name": "MBAZOU NYAGANG CHRIST LEGRAND",
+          "matricule": "SC25B840",
+          "email": "mbazou.nyagang@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 204,
+          "name": "MBEMSIMBOM DARELLE NDONCHA",
+          "matricule": "SC25B841",
+          "email": "mbemsimbom.darelle@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 205,
+          "name": "MBI YONDO YOMBWOM",
+          "matricule": "SC25B842",
+          "email": "mbi.yondo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 206,
+          "name": "MBI-OJONG MANDA MARYLOVE",
+          "matricule": "SC25B843",
+          "email": "mbi-ojong.manda@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 207,
+          "name": "MBIBA MBIBA CALVIN JUNIOR",
+          "matricule": "SC25B844",
+          "email": "mbiba.mbiba@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 208,
+          "name": "MBONDE COLLINS MBONDE",
+          "matricule": "SC25B845",
+          "email": "mbonde.collins@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 209,
+          "name": "MBOUOGNING ANGE CYNTHIA",
+          "matricule": "SC25B846",
+          "email": "mbouogning.ange@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 210,
+          "name": "MBU TABI TAKU JESSE",
+          "matricule": "SC25B847",
+          "email": "mbu.tabi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 211,
+          "name": "MBUH MYCINE AKO",
+          "matricule": "SC25B848",
+          "email": "mbuh.mycine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 212,
+          "name": "MEHZIE MALCOLM PETER",
+          "matricule": "SC25B849",
+          "email": "mehzie.malcolm@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 213,
+          "name": "MEKAME LEONEL NWULAYEH",
+          "matricule": "SC25B850",
+          "email": "mekame.leonel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 214,
+          "name": "MENDE-LEV EGBE NGANDO",
+          "matricule": "SC25B851",
+          "email": "mende-lev.egbe@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 215,
+          "name": "MENGHI MARIE-SLESOR NDAYONG",
+          "matricule": "SC25B852",
+          "email": "menghi.marie-slesor@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 216,
+          "name": "MESODE FELICITY",
+          "matricule": "SC25B853",
+          "email": "mesode.felicity@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 217,
+          "name": "MESUMBE RICHMOND MELLE",
+          "matricule": "SC25B854",
+          "email": "mesumbe.richmond@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 218,
+          "name": "MIYAKAYESU NGOH ASAHA ACHUBANG",
+          "matricule": "SC25B855",
+          "email": "miyakayesu.ngoh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 219,
+          "name": "MOMO FOKOUE",
+          "matricule": "SC25B856",
+          "email": "momo.fokoue@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 220,
+          "name": "MOSONGO EMMANUEL MBONDE OKIA",
+          "matricule": "SC25B857",
+          "email": "mosongo.emmanuel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 221,
+          "name": "MUA HARRY-NOEL ACHUO ETOH",
+          "matricule": "SC25B858",
+          "email": "mua.harry-noel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 222,
+          "name": "MUDOH JOAN TITECK",
+          "matricule": "SC25B859",
+          "email": "mudoh.joan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 223,
+          "name": "MUFU PRECIOUS AGWA",
+          "matricule": "SC25B860",
+          "email": "mufu.precious@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 224,
+          "name": "MUKUM MATAGNI TECHE",
+          "matricule": "SC25B861",
+          "email": "mukum.matagni@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 225,
+          "name": "MUNGE EKEH THELMA METUGE",
+          "matricule": "SC25B862",
+          "email": "munge.ekeh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 226,
+          "name": "NAHVOMA SAMORINE SAMGWA'A",
+          "matricule": "SC25B863",
+          "email": "nahvoma.samorine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 227,
+          "name": "NCHUNDAH SHAMMA THOUNUI",
+          "matricule": "SC25B864",
+          "email": "nchundah.shamma@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 228,
+          "name": "NDAH ALVINE NGUEM",
+          "matricule": "SC25B865",
+          "email": "ndah.alvine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 229,
+          "name": "NDANG HARRIS NGONG",
+          "matricule": "SC25B866",
+          "email": "ndang.harris@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 230,
+          "name": "NDE MESEMBE ILAMBO",
+          "matricule": "SC25B867",
+          "email": "nde.mesembe@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 231,
+          "name": "NDEH KENNETH ENOBILLE",
+          "matricule": "SC25B868",
+          "email": "ndeh.kenneth@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 232,
+          "name": "NDENGWE TEMGOUA TIAKO VONSI",
+          "matricule": "SC25B869",
+          "email": "ndengwe.temgoua@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 233,
+          "name": "NDEUMENI THERON MARTIAL MBAH",
+          "matricule": "SC25B870",
+          "email": "ndeumeni.theron@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 234,
+          "name": "NDIBABONGA NEHWALLA DAYEBGA",
+          "matricule": "SC25B871",
+          "email": "ndibabonga.nehwalla@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 235,
+          "name": "NDIFOR TRACY-CHRIST NGENWIE",
+          "matricule": "SC25B872",
+          "email": "ndifor.tracy-christ@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 236,
+          "name": "NDJAFO MERVILLE PACO-11",
+          "matricule": "SC25B873",
+          "email": "ndjafo.merville@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 237,
+          "name": "NDONG PETRA KWALLA",
+          "matricule": "SC25B874",
+          "email": "ndong.petra@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 238,
+          "name": "NDONGE EKANE NEIVILLE",
+          "matricule": "SC25B875",
+          "email": "ndonge.ekane@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 239,
+          "name": "NDONGMO FAVOUR RUDYE",
+          "matricule": "SC25B876",
+          "email": "ndongmo.favour@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 240,
+          "name": "NDONGUE AARON JUNIOR",
+          "matricule": "SC25B877",
+          "email": "ndongue.aaron@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 241,
+          "name": "NDUMBE RAYAN SAKO EMMANUEL LIFAKA",
+          "matricule": "SC25B878",
+          "email": "ndumbe.rayan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 242,
+          "name": "NEBA GREG BRIAN AMABO",
+          "matricule": "SC25B879",
+          "email": "neba.greg@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 243,
+          "name": "NENYAM ENJEH CONDOLEEZZA",
+          "matricule": "SC25B880",
+          "email": "nenyam.enjeh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 244,
+          "name": "NFOR MALICK BANTAR",
+          "matricule": "SC25B881",
+          "email": "nfor.malick@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 245,
+          "name": "NFORLEM AKOH PRECIOUS",
+          "matricule": "SC25B882",
+          "email": "nforlem.akoh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 246,
+          "name": "NFORWA ABINWI FUH",
+          "matricule": "SC25B883",
+          "email": "nforwa.abinwi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 247,
+          "name": "NGAMENI KAMGANG JEANNICE FORTUNE",
+          "matricule": "SC25B884",
+          "email": "ngameni.kamgang@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 248,
+          "name": "NGANDO PILLAR LONDE",
+          "matricule": "SC25B885",
+          "email": "ngando.pillar@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 249,
+          "name": "NGANTANU VALDES AJONG",
+          "matricule": "SC25B886",
+          "email": "ngantanu.valdes@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 250,
+          "name": "NGANWA BOSSIA LINNES MAXEMILIE",
+          "matricule": "SC25B887",
+          "email": "nganwa.bossia@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 251,
+          "name": "NGENFUE GLYNN NYOYENNE",
+          "matricule": "SC25B889",
+          "email": "ngenfue.glynn@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 252,
+          "name": "NGIA PRINCESS ANUNG",
+          "matricule": "SC25B890",
+          "email": "ngia.princess@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 253,
+          "name": "NGOME MBINE IVY MAH",
+          "matricule": "SC25B891",
+          "email": "ngome.mbine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 254,
+          "name": "NGONG BRANDON FONCHANG",
+          "matricule": "SC25B892",
+          "email": "ngong.brandon@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 255,
+          "name": "Ngongang Arantis molage okatoke",
+          "matricule": "SC25B893",
+          "email": "ngongang.arantis@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 256,
+          "name": "NGONGHA JERRY CHEFOR",
+          "matricule": "SC25B894",
+          "email": "ngongha.jerry@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 257,
+          "name": "NGU ALTMAN-FAITH BEKENEH",
+          "matricule": "SC25B895",
+          "email": "ngu.altman-faith@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 258,
+          "name": "NGU ELIZO MUWAH",
+          "matricule": "SC25B896",
+          "email": "ngu.elizo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 259,
+          "name": "NGUAFAC AZEKENG FIDEL BRYAN",
+          "matricule": "SC25B897",
+          "email": "nguafac.azekeng@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 260,
+          "name": "NGWAIN BORIS NDAH",
+          "matricule": "SC25B898",
+          "email": "ngwain.boris@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 261,
+          "name": "NGWAMENE ANDREW JUNIOR",
+          "matricule": "SC25B899",
+          "email": "ngwamene.andrew@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 262,
+          "name": "NIBEL ASONGANYI TENDONGFOR",
+          "matricule": "SC25B900",
+          "email": "nibel.asonganyi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 263,
+          "name": "NINKA TOUOYEM GILLYS",
+          "matricule": "SC25B901",
+          "email": "ninka.touoyem@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 264,
+          "name": "NJAMEN JONATHAN",
+          "matricule": "SC25B902",
+          "email": "njamen.jonathan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 265,
+          "name": "NJAYO BRILLIANT NJAYO MOLUKULE",
+          "matricule": "SC25B903",
+          "email": "njayo.brilliant@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 266,
+          "name": "NJI ABEYAM JUNIOR-KINGS",
+          "matricule": "SC25B904",
+          "email": "nji.abeyam@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 267,
+          "name": "NJI BLANDINE NWA",
+          "matricule": "SC25B905",
+          "email": "nji.blandine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 268,
+          "name": "NJI DESMOND MCNDIFOR",
+          "matricule": "SC25B906",
+          "email": "nji.desmond@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 269,
+          "name": "NJULEFAC PRECIOUS NJINKENG",
+          "matricule": "SC25B907",
+          "email": "njulefac.precious@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 270,
+          "name": "NKAFU CHRISNUEL NWOTA",
+          "matricule": "SC25B908",
+          "email": "nkafu.chrisnuel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 271,
+          "name": "NKAMTO BENEDICT JUNIOR",
+          "matricule": "SC25B909",
+          "email": "nkamto.@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 272,
+          "name": "NKEMJUKANG MAIVA NJUKANG",
+          "matricule": "SC25B910",
+          "email": "nkemjukang.maiva@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 273,
+          "name": "NKENGAFACK DOBRINE AMIN",
+          "matricule": "SC25B911",
+          "email": "nkengafack.dobrine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 274,
+          "name": "NKENGIM KERON ACHENJANG",
+          "matricule": "SC25B912",
+          "email": "nkengim.keron@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 275,
+          "name": "NKEWAMOH CHRISPHEL ALONZAFOR",
+          "matricule": "SC25B913",
+          "email": "nkewamoh.chrisphel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 276,
+          "name": "NKONGAYI PATRICE TITA",
+          "matricule": "SC25B914",
+          "email": "nkongayi.patrice@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 277,
+          "name": "NKONGHO BESONG SONIA MBI",
+          "matricule": "SC25B915",
+          "email": "nkongho.besong@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 278,
+          "name": "NKOSI NONEL NKOSI",
+          "matricule": "SC25B916",
+          "email": "nkosi.nonel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 279,
+          "name": "NONYONGO MITCH ELOMBA NONYONGO",
+          "matricule": "SC25B917",
+          "email": "nonyongo.mitch@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 280,
+          "name": "NOTOUM YOUADJEU KYLLIAN CHRISTIAN",
+          "matricule": "SC25B918",
+          "email": "notoum.youadjeu@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 281,
+          "name": "NOUKAWOLO PAYON ROSALIE GRACE",
+          "matricule": "SC25B919",
+          "email": "noukawolo.payon@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 282,
+          "name": "NOUMESSI FRANKLIN",
+          "matricule": "SC25B920",
+          "email": "noumessi.franklin@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 283,
+          "name": "NTEMI BELDINE NOELA NANA",
+          "matricule": "SC25B921",
+          "email": "ntemi.beldine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 284,
+          "name": "NTIEGE PRAISES AICHA EHODE",
+          "matricule": "SC25B922",
+          "email": "ntiege.praises@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 285,
+          "name": "NTIEH TAMINJONG CHRIST",
+          "matricule": "SC25B923",
+          "email": "ntieh.taminjong@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 286,
+          "name": "NTUNGWE HERVE MAXIME EBONG",
+          "matricule": "SC25B924",
+          "email": "ntungwe.herve@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 287,
+          "name": "NTURBEE LIZA YIRAN",
+          "matricule": "SC25B925",
+          "email": "nturbee.liza@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 288,
+          "name": "NUZA JUNIOR EVARISTUS MUKONGCHO",
+          "matricule": "SC25B926",
+          "email": "nuza.junior@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 289,
+          "name": "NWESHI JOY AGHANGWI",
+          "matricule": "SC25B927",
+          "email": "nweshi.joy@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 290,
+          "name": "NWOGU DORLIN ONYINYECHI",
+          "matricule": "SC25B928",
+          "email": "nwogu.dorlin@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 291,
+          "name": "NYAMBOLI BLAISE NSOH",
+          "matricule": "SC25B929",
+          "email": "nyamboli.blaise@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 292,
+          "name": "NYANU BERLINA KELLY",
+          "matricule": "SC25B930",
+          "email": "nyanu.berlina@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 293,
+          "name": "NYIAWUNG ELSON NKENGAFEH",
+          "matricule": "SC25B931",
+          "email": "nyiawung.elson@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 294,
+          "name": "NYONBEGA NWANA IVO JUNIOR",
+          "matricule": "SC25B932",
+          "email": "nyonbega.nwana@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 295,
+          "name": "OAKORI GRACE WA MUKETE",
+          "matricule": "SC25D014",
+          "email": "oakori.grace@ubuea.cm",
+          "admittedDate": "04/11/2025"
+        },
+        {
+          "sn": 296,
+          "name": "OJONG FLORATINE VEBOE",
+          "matricule": "SC25B934",
+          "email": "ojong.floratine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 297,
+          "name": "OJONGACHERE MICHAEL OJONGOBI",
+          "matricule": "SC25B935",
+          "email": "ojongachere.michael@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 298,
+          "name": "ORU CLINTON ORU",
+          "matricule": "SC25B936",
+          "email": "oru.clinton@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 299,
+          "name": "PAMENE NGAMO PASSY DONOVANE",
+          "matricule": "SC25B937",
+          "email": "pamene.ngamo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 300,
+          "name": "PEACE TEBAH TOH",
+          "matricule": "SC25B938",
+          "email": "peace.tebah@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 301,
+          "name": "PEKUNA DOGALINE COMFORT",
+          "matricule": "SC25B939",
+          "email": "pekuna.dogaline@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 302,
+          "name": "PENANDJO DEKOU DILAN JUNIOR",
+          "matricule": "SC25B940",
+          "email": "penandjo.@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 303,
+          "name": "PEZOH VANISTEROIL CASHMERE MOFOR",
+          "matricule": "SC25B941",
+          "email": "pezoh.vanisteroil@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 304,
+          "name": "PREVAIL-PEREZ NZALLEH EJONGHI MBONG",
+          "matricule": "SC25B942",
+          "email": "prevail-perez.nzalleh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 305,
+          "name": "PRINCEWILL NDIVE MBWANGE",
+          "matricule": "SC25B943",
+          "email": "princewill.ndive@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 306,
+          "name": "RANDY FAHYUI NGOLUI",
+          "matricule": "SC25B944",
+          "email": "randy.fahyui@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 307,
+          "name": "REWIRY FAITH",
+          "matricule": "SC25B945",
+          "email": "rewiry.faith@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 308,
+          "name": "ROI-SHAMMAH RENSTON TINYE FORZE",
+          "matricule": "SC25B946",
+          "email": "roi-shammah.renston@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 309,
+          "name": "ROONEY MOKI NAKO",
+          "matricule": "SC25B947",
+          "email": "rooney.moki@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 310,
+          "name": "RUTH JAVEA NDIVE",
+          "matricule": "SC25B948",
+          "email": "ruth.javea@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 311,
+          "name": "RYAN IKOME KALE MOKOLA",
+          "matricule": "SC25B949",
+          "email": "ryan.ikome@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 312,
+          "name": "SABE CYRUS",
+          "matricule": "SC25B950",
+          "email": "sabe.cyrus@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 313,
+          "name": "SAKO MONJOH BOSSEME",
+          "matricule": "SC25B951",
+          "email": "sako.monjoh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 314,
+          "name": "SAMGWA'A BOBGATATAH",
+          "matricule": "SC25B952",
+          "email": "samgwa'a.bobgatatah@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 315,
+          "name": "SAMUELSON PRINCESS JOY IBULU ETONGO",
+          "matricule": "SC25B953",
+          "email": "samuelson.princess@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 316,
+          "name": "SEM JESY WIYSAHNYUY",
+          "matricule": "SC25B954",
+          "email": "sem.jesy@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 317,
+          "name": "SEMA BABILA DERICK GENNAH",
+          "matricule": "SC25B955",
+          "email": "sema.babila@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 318,
+          "name": "SHAKINA IDRISSA",
+          "matricule": "SC25B956",
+          "email": "shakina.idrissa@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 319,
+          "name": "SHALOM MBONG MBOGE",
+          "matricule": "SC25B957",
+          "email": "shalom.mbong@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 320,
+          "name": "SIDJOU KENGNE JOYCE",
+          "matricule": "SC25B958",
+          "email": "sidjou.kengne@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 321,
+          "name": "SIEKOWER DORIAN KELSEN MALIENJI",
+          "matricule": "SC25B959",
+          "email": "siekower.dorian@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 322,
+          "name": "SIGALA NETLY QUEEN MOJOKO",
+          "matricule": "SC25B960",
+          "email": "sigala.netly@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 323,
+          "name": "SIH EDITH NGAH",
+          "matricule": "SC25B961",
+          "email": "sih.edith@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 324,
+          "name": "SIH LOIS BUH",
+          "matricule": "SC25B962",
+          "email": "sih.lois@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 325,
+          "name": "SINEFO TALLA JOY",
+          "matricule": "SC25B963",
+          "email": "sinefo.talla@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 326,
+          "name": "SOB DJIZANG DRESLER OLIVE",
+          "matricule": "SC25B964",
+          "email": "sob.djizang@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 327,
+          "name": "SONA ERICSON MATUKE CLINTON",
+          "matricule": "SC25B965",
+          "email": "sona.ericson@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 328,
+          "name": "SONE VICTORY NTONGWE",
+          "matricule": "SC25B966",
+          "email": "sone.victory@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 329,
+          "name": "STEPHFRID MUELA KOMBE ESSOMBA",
+          "matricule": "SC25B967",
+          "email": "stephfrid.muela@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 330,
+          "name": "TABI ANGELA ASHU",
+          "matricule": "SC25B968",
+          "email": "tabi.angela@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 331,
+          "name": "TAKWA TATAW RYAN ARREYMANYOR",
+          "matricule": "SC25B969",
+          "email": "takwa.tataw@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 332,
+          "name": "TALLA DANIEL TALLA",
+          "matricule": "SC25B970",
+          "email": "talla.daniel@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 333,
+          "name": "TALLEH MANUELA MBOH",
+          "matricule": "SC25B971",
+          "email": "talleh.manuela@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 334,
+          "name": "TAMBEYONG CLAIR HARRIS EYONG-ETAKA",
+          "matricule": "SC25B972",
+          "email": "tambeyong.clair@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 335,
+          "name": "TANGIM KELLYKATE ZILEFAC",
+          "matricule": "SC25B973",
+          "email": "tangim.kellykate@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 336,
+          "name": "TANITAKOH DANIELLA AKUANAMBOMBI",
+          "matricule": "SC25B974",
+          "email": "tanitakoh.daniella@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 337,
+          "name": "TANTOH FAVOUR TATA",
+          "matricule": "SC25B975",
+          "email": "tantoh.favour@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 338,
+          "name": "TASSI NDAH ZION",
+          "matricule": "SC25B976",
+          "email": "tassi.ndah@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 339,
+          "name": "TATA REYAN-ASHLEY TIFUH FOMOYUY",
+          "matricule": "SC25B977",
+          "email": "tata.reyan-ashley@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 340,
+          "name": "TATAH SILAS KONTENG",
+          "matricule": "SC25B978",
+          "email": "tatah.silas@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 341,
+          "name": "TCHEWONG GATCHUESSI JOANITA STELLA",
+          "matricule": "SC25B979",
+          "email": "tchewong.gatchuessi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 342,
+          "name": "TCHOPTSE ABIGAIL VICTOIRE",
+          "matricule": "SC25B980",
+          "email": "tchoptse.abigail@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 343,
+          "name": "TCHOUANCHE KAMTCHOUA KECYA DIVINE",
+          "matricule": "SC25B981",
+          "email": "tchouanche.kamtchoua@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 344,
+          "name": "TCHOUANGUEM YOSSI VICKY KRISTY",
+          "matricule": "SC25B982",
+          "email": "tchouanguem.yossi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 345,
+          "name": "TCHOUTCHOUA NENGOU PRINCE BRAYAN",
+          "matricule": "SC25B983",
+          "email": "tchoutchoua.@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 346,
+          "name": "TEBONG DIVINE ABOH",
+          "matricule": "SC25B984",
+          "email": "tebong.divine@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 347,
+          "name": "TEKWOH CAROLINE NWAMBA",
+          "matricule": "SC25B985",
+          "email": "tekwoh.caroline@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 348,
+          "name": "TENDONGAFAC JUNIOR TENDONGAFAC",
+          "matricule": "SC25B986",
+          "email": "tendongafac.junior@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 349,
+          "name": "TEZOM-AFOH BRYAN NEYEH",
+          "matricule": "SC25B987",
+          "email": "tezom-afoh.bryan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 350,
+          "name": "THIERRY-HANSEL BIMIMBOM LO-OH",
+          "matricule": "SC25B988",
+          "email": "thierry-hansel.bimimbom@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 351,
+          "name": "THURAM TANYI MOKA",
+          "matricule": "SC25B989",
+          "email": "thuram.@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 352,
+          "name": "TIBEN SUCCESS NJECK",
+          "matricule": "SC25B990",
+          "email": "tiben.success@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 353,
+          "name": "TIBO ROBERT NJI",
+          "matricule": "SC25B991",
+          "email": "tibo.robert@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 354,
+          "name": "TITA NGOH TEBOH",
+          "matricule": "SC25B992",
+          "email": "tita.ngoh@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 355,
+          "name": "TONME TOUONANG THEINA ROSY",
+          "matricule": "SC25B993",
+          "email": "tonme.touonang@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 356,
+          "name": "TRACY FABO NUKI",
+          "matricule": "SC25B994",
+          "email": "tracy.fabo@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 357,
+          "name": "TSIAMBOM WUJUNGBWEN",
+          "matricule": "SC25B995",
+          "email": "tsiambom.wujungbwen@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 358,
+          "name": "VECHAS VARENCE WALLANG",
+          "matricule": "SC25B996",
+          "email": "vechas.varence@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 359,
+          "name": "WASSO NORBERT BENDE JUNIOR",
+          "matricule": "SC25B997",
+          "email": "wasso.norbert@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 360,
+          "name": "WEMBE OLIVETTE MUHEBEH",
+          "matricule": "SC25B998",
+          "email": "wembe.olivette@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 361,
+          "name": "WISDOM KA-ITAZHI ALANG",
+          "matricule": "SC25B999",
+          "email": "wisdom.ka-itazhi@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 362,
+          "name": "WIYKIINYUY BRYAN YUNKUNG JR",
+          "matricule": "SC25C001",
+          "email": "wiykiinyuy.bryan@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 363,
+          "name": "YONG INDIRA NDUM",
+          "matricule": "SC25C002",
+          "email": "yong.indira@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        },
+        {
+          "sn": 364,
+          "name": "ZOH LARISSA LAURENE",
+          "matricule": "SC25C003",
+          "email": "zoh.larissa@ubuea.cm",
+          "admittedDate": "30/09/2025"
+        }
+      ]
+    },
+    {
+      "academicYear": "2024/2025",
+      "count": 198,
+      "students": [
+        {
+          "sn": 1,
+          "name": "NDOBIDE BENDRIX ABWE",
+          "matricule": "SC24B048",
+          "email": "ndobide.bendrix@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 2,
+          "name": "ABANDA AGBOR DANIEL JUNIOR",
+          "matricule": "SC24B049",
+          "email": "abanda.agbor@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 3,
+          "name": "ABAS NCHOMBONUI",
+          "matricule": "SC24B050",
+          "email": "abas.nchombonui@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 4,
+          "name": "ABEH MARIECLAIR MANLI",
+          "matricule": "SC24C705",
+          "email": "abeh.marieclair@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 5,
+          "name": "ACHALE OMA EGBE",
+          "matricule": "SC24B051",
+          "email": "achale.oma@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 6,
+          "name": "ACHE BRADLEY MAMBOHLI",
+          "matricule": "SC24B052",
+          "email": "ache.bradley@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 7,
+          "name": "ACHEKWA JUNIOR ACHEKWA",
+          "matricule": "SC24B053",
+          "email": "achekwa.junior@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 8,
+          "name": "ACHIMBOM SECUNDA SA-HA",
+          "matricule": "SC24B054",
+          "email": "achimbom.secunda@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 9,
+          "name": "AFOUMBOM NIBON EXCEL CHI",
+          "matricule": "SC24B055",
+          "email": "afoumbom.nibon@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 10,
+          "name": "AGBOR-AWI AYUKMUNGANG",
+          "matricule": "SC24B056",
+          "email": "agbor-awi.ayukmungang@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 11,
+          "name": "AGWO SCHNEIDA ENGOWEI",
+          "matricule": "SC24B057",
+          "email": "agwo.schneida@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 12,
+          "name": "AKO ASHU ROMEO",
+          "matricule": "SC24B058",
+          "email": "ako.ashu@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 13,
+          "name": "AKUM ISTAND AKUM",
+          "matricule": "SC24B059",
+          "email": "akum.istand@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 14,
+          "name": "AKWA CLIFORD ACHUO",
+          "matricule": "SC24B060",
+          "email": "akwa.cliford@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 15,
+          "name": "AMBASSADOR LOMBY GEDEON",
+          "matricule": "SC24B061",
+          "email": "ambassador.lomby@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 16,
+          "name": "ANJIANJEI NORIS JUNIOR ABIDEMBE",
+          "matricule": "SC24B062",
+          "email": "anjianjei.noris@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 17,
+          "name": "ANTA MBUNWE TIAYON",
+          "matricule": "SC24B063",
+          "email": "anta.mbunwe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 18,
+          "name": "ANU LOYSPA ATABONG",
+          "matricule": "SC24B064",
+          "email": "anu.loyspa@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 19,
+          "name": "APONDE GIDIOM",
+          "matricule": "SC24B065",
+          "email": "aponde.gidiom@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 20,
+          "name": "ARREY MARGARET GIFT ARREY AZOGO",
+          "matricule": "SC24B066",
+          "email": "arrey.margaret@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 21,
+          "name": "ASHU BASUA TCHITCHUI",
+          "matricule": "SC24B340",
+          "email": "ashu.basua@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 22,
+          "name": "ASHU FAVOLEE MANA",
+          "matricule": "SC24B490",
+          "email": "ashu.favolee@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 23,
+          "name": "ASONGAFAEC ACHAYANG",
+          "matricule": "SC24B067",
+          "email": "asongafaec.achayang@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 24,
+          "name": "ATABONG LORDSWILL CHA",
+          "matricule": "SC24A022",
+          "email": "atabong.lordswill@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 25,
+          "name": "ATEMKENG PRINCE LOVET TANZE FONCHENALLA",
+          "matricule": "SC24B068",
+          "email": "atemkeng.prince@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 26,
+          "name": "ATURI BLESSING MANYEN",
+          "matricule": "SC24B069",
+          "email": "aturi.blessing@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 27,
+          "name": "AWOH EMMANUEL TABE",
+          "matricule": "SC24B070",
+          "email": "awoh.emmanuel@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 28,
+          "name": "AWONTUH GODLOVE FOINJANG",
+          "matricule": "SC24B071",
+          "email": "awontuh.godlove@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 29,
+          "name": "AYONGI EBIAYA DOTHY HISTORY",
+          "matricule": "SC24B072",
+          "email": "ayongi.ebiaya@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 30,
+          "name": "AYUK BERNARD GIFT NDIPMANYOR JUNIOR",
+          "matricule": "SC24B073",
+          "email": "ayuk.bernard@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 31,
+          "name": "AYUK RANSOM TAKU NCHI",
+          "matricule": "SC24B074",
+          "email": "ayuk.ransom@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 32,
+          "name": "AYUK TABE EBOT BRIAN",
+          "matricule": "SC24B075",
+          "email": "ayuk.tabe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 33,
+          "name": "AZAWE LAURENTHEBERGE YAYA",
+          "matricule": "SC24B076",
+          "email": "azawe.laurentheberge@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 34,
+          "name": "BAIYE ZITA TANYI",
+          "matricule": "SC24B077",
+          "email": "baiye.zita@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 35,
+          "name": "BANG KIRIA ETANKI",
+          "matricule": "SC24B078",
+          "email": "bang.kiria@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 36,
+          "name": "BATISTON JUNIOR LKOME NDELLE LYONGA",
+          "matricule": "SC24C208",
+          "email": "batiston.junior@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 37,
+          "name": "BATONGO ETONDE DISSOH",
+          "matricule": "SC24B079",
+          "email": "batongo.etonde@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 38,
+          "name": "BESONG DAVID BESONGETENGENEG",
+          "matricule": "SC24B080",
+          "email": "besong.david@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 39,
+          "name": "BESONG-KENFACK ETTABAWUME",
+          "matricule": "SC24B081",
+          "email": "besong-kenfack.ettabawume@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 40,
+          "name": "BIGOR FAVOUR ONNOR",
+          "matricule": "SC24B082",
+          "email": "bigor.favour@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 41,
+          "name": "BIH FLAVIN CHI",
+          "matricule": "SC24B083",
+          "email": "bih.flavin@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 42,
+          "name": "BOLABO FAMOUS MASANGO",
+          "matricule": "SC24B084",
+          "email": "bolabo.famous@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 43,
+          "name": "BOSSA NOAH HOLION AKAWUNG",
+          "matricule": "SC24B085",
+          "email": "bossa.noah@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 44,
+          "name": "BOUTCHE RAYAN CHAMDA",
+          "matricule": "SC24B086",
+          "email": "boutche.rayan@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 45,
+          "name": "CHELCY MA-YUH MUNBI",
+          "matricule": "SC24B088",
+          "email": "chelcy.ma-yuh@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 46,
+          "name": "CHERYL AKIEPOH MBUOKAPING",
+          "matricule": "SC24B649",
+          "email": "cheryl.akiepoh@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 47,
+          "name": "CHIKUM WISDOM TEM ANYEKEDZE",
+          "matricule": "SC24B089",
+          "email": "chikum.wisdom@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 48,
+          "name": "CYNTHIA FLORENCE MULUH",
+          "matricule": "SC24B090",
+          "email": "cynthia.florence@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 49,
+          "name": "DEBA-BAWACK FAVOUR-DENZEL ASHU",
+          "matricule": "SC24B091",
+          "email": "deba-bawack.favour-denzel@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 50,
+          "name": "DOBGIMA SYDNEY DOHGHEB NDIFON",
+          "matricule": "SC24B092",
+          "email": "dobgima.sydney@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 51,
+          "name": "DOROTHY WELISANNE BERI WACKA",
+          "matricule": "SC24B093",
+          "email": "dorothy.welisanne@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 52,
+          "name": "DZEUFOUO VICTORY ATEMKUTOH",
+          "matricule": "SC24B094",
+          "email": "dzeufouo.victory@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 53,
+          "name": "EBI PAPA-ANDRIAO EBAI",
+          "matricule": "SC24A499",
+          "email": "ebi.papa-andriao@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 54,
+          "name": "EBONG BAO EWOH RICHARD BAKWOH",
+          "matricule": "SC24B095",
+          "email": "ebong.bao@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 55,
+          "name": "EBOTE NICOLINE EWANG",
+          "matricule": "SC24B096",
+          "email": "ebote.nicoline@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 56,
+          "name": "EDE EYENGA HOPE JESSICA",
+          "matricule": "SC24B097",
+          "email": "ede.eyenga@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 57,
+          "name": "EKANE MARVIN WILLIAM",
+          "matricule": "SC24B098",
+          "email": "ekane.marvin@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 58,
+          "name": "EKWE VALIANT ANYI",
+          "matricule": "SC24B099",
+          "email": "ekwe.valiant@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 59,
+          "name": "ESOFOR NISSI EMMANUEL AGENDIA",
+          "matricule": "SC24B101",
+          "email": "esofor.nissi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 60,
+          "name": "ETAMBI CHRISMIKE ETA",
+          "matricule": "SC24B103",
+          "email": "etambi.chrismike@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 61,
+          "name": "EWANE PEARL MEJANE",
+          "matricule": "SC24B104",
+          "email": "ewane.pearl@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 62,
+          "name": "EWULE HARVEY LEEKSON MBANGE",
+          "matricule": "SC24B105",
+          "email": "ewule.harvey@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 63,
+          "name": "EYOLE MIKE-FAITH LIFAKA MOORE",
+          "matricule": "SC24B106",
+          "email": "eyole.mike-faith@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 64,
+          "name": "EYONG EVALDINE ASHU",
+          "matricule": "SC24B107",
+          "email": "eyong.evaldine@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 65,
+          "name": "FEUGAING GLORY ASSER",
+          "matricule": "SC24B521",
+          "email": "feugaing.glory@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 66,
+          "name": "FOKOUE KOUEJIO NORBERT PRECILLIA",
+          "matricule": "SC24C678",
+          "email": "fokoue.kouejio@ubuea.cm",
+          "admittedDate": "16/10/2024"
+        },
+        {
+          "sn": 67,
+          "name": "FOMBO BAVIC TEGHEN",
+          "matricule": "SC24B522",
+          "email": "fombo.bavic@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 68,
+          "name": "FOMBUTU COLETTE NGULEFAC BORNI",
+          "matricule": "SC24B108",
+          "email": "fombutu.colette@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 69,
+          "name": "FON BORIS ACHA",
+          "matricule": "SC24B109",
+          "email": "fon.boris@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 70,
+          "name": "FON GIFT NDASHI",
+          "matricule": "SC24B110",
+          "email": "fon.gift@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 71,
+          "name": "FONKA SEAN LARRY ESEMU",
+          "matricule": "SC24B111",
+          "email": "fonka.sean@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 72,
+          "name": "FONYUY ISAAC TARDZENYUY",
+          "matricule": "SC24B112",
+          "email": "fonyuy.isaac@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 73,
+          "name": "FOSSONG ASUNG CARLOS FELICIANO AZO-OSHI",
+          "matricule": "SC24B525",
+          "email": "fossong.asung@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 74,
+          "name": "FUAMBU COLLINS TINEFEH",
+          "matricule": "SC24C519",
+          "email": "fuambu.collins@ubuea.cm",
+          "admittedDate": "16/10/2024"
+        },
+        {
+          "sn": 75,
+          "name": "FUAMBU RADON NGAIWI",
+          "matricule": "SC24A512",
+          "email": "fuambu.radon@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 76,
+          "name": "FUKAH RAWLINGS WANDI",
+          "matricule": "SC24B113",
+          "email": "fukah.rawlings@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 77,
+          "name": "GABCHE CHARLES AGHO",
+          "matricule": "SC24B114",
+          "email": "gabche.charles@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 78,
+          "name": "GURBURN YUKANYI MICHAEL YU'NZUR",
+          "matricule": "SC24B115",
+          "email": "gurburn.yukanyi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 79,
+          "name": "GWANMESIA DRIZELLA NCHONG NGEHDAP",
+          "matricule": "SC24A513",
+          "email": "gwanmesia.drizella@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 80,
+          "name": "HAPPI GENUINE NGUEWO",
+          "matricule": "SC24B387",
+          "email": "happi.genuine@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 81,
+          "name": "IHIMBRU JOB KANYIMI",
+          "matricule": "SC24B116",
+          "email": "ihimbru.job@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 82,
+          "name": "IKOME ROLLINS BIBI",
+          "matricule": "SC24B528",
+          "email": "ikome.rollins@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 83,
+          "name": "ITOE DESMOND BEKALI",
+          "matricule": "SC24B117",
+          "email": "itoe.desmond@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 84,
+          "name": "Joel Ndakwe Tabi",
+          "matricule": "SC24B118",
+          "email": "joel.ndakwe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 85,
+          "name": "JOEL TAYONG MBAH",
+          "matricule": "SC24B119",
+          "email": "joel.tayong@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 86,
+          "name": "JONGWEH SOURIAM WENGANG",
+          "matricule": "SC24C520",
+          "email": "jongweh.souriam@ubuea.cm",
+          "admittedDate": "16/10/2024"
+        },
+        {
+          "sn": 87,
+          "name": "KAEL DAVIDS DEHZE CHAH",
+          "matricule": "SC24B120",
+          "email": "kael.davids@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 88,
+          "name": "KANG FRITZ ANDIE JUNIOR",
+          "matricule": "SC24B121",
+          "email": "kang.fritz@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 89,
+          "name": "KENGNE TOULEPI STEVEN BRAYAN",
+          "matricule": "SC24B122",
+          "email": "kengne.toulepi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 90,
+          "name": "KENNE BANJI STEVE BABE",
+          "matricule": "SC24B123",
+          "email": "kenne.banji@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 91,
+          "name": "KILAN BRYAN TIKU",
+          "matricule": "SC24B124",
+          "email": "kilan.bryan@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 92,
+          "name": "KONGNYU BELVA TUME",
+          "matricule": "SC24B125",
+          "email": "kongnyu.belva@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 93,
+          "name": "KUETCHE TAKAM CHARLES RHONY",
+          "matricule": "SC24B126",
+          "email": "kuetche.takam@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 94,
+          "name": "LAFON DZENYUY PRIDE ALEXANDER",
+          "matricule": "SC24B127",
+          "email": "lafon.dzenyuy@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 95,
+          "name": "LAMBE EMMANUEL BUINUI ADAMU CHO",
+          "matricule": "SC24C246",
+          "email": "lambe.emmanuel@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 96,
+          "name": "LEYNYUY GERARD SHUDZEKA",
+          "matricule": "SC24B128",
+          "email": "leynyuy.gerard@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 97,
+          "name": "LIMUNGA MARIE NGOU",
+          "matricule": "SC24B129",
+          "email": "limunga.marie@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 98,
+          "name": "LIVITA LYONGA LYONGA MOLOMBE",
+          "matricule": "SC24B130",
+          "email": "livita.lyonga@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 99,
+          "name": "MAANGEH SAM EMMANUEL",
+          "matricule": "SC24B131",
+          "email": "maangeh.sam@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 100,
+          "name": "MAINSAH FRANCOIS XAVIER",
+          "matricule": "SC24B132",
+          "email": "mainsah.francois@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 101,
+          "name": "MANGA ELVIS MANGA",
+          "matricule": "SC24B133",
+          "email": "manga.elvis@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 102,
+          "name": "MBAIKEN EBEN-EZER TRISHATHA",
+          "matricule": "SC24B135",
+          "email": "mbaiken.eben-ezer@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 103,
+          "name": "MBEMNGONG GODSGIFT KARNGONG",
+          "matricule": "SC24B411",
+          "email": "mbemngong.godsgift@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 104,
+          "name": "MBU EGBE EMMANUEL",
+          "matricule": "SC24B136",
+          "email": "mbu.egbe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 105,
+          "name": "MBU ETA BLAISE",
+          "matricule": "SC24B137",
+          "email": "mbu.eta@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 106,
+          "name": "MBUFONG YVISIBOM PAULA",
+          "matricule": "SC24A769",
+          "email": "mbufong.yvisibom@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 107,
+          "name": "MC WALTERS AARON BAGEN TEBOH",
+          "matricule": "SC24B138",
+          "email": "mc.walters@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 108,
+          "name": "MEDOH MATCHY JACKY",
+          "matricule": "SC24B139",
+          "email": "medoh.matchy@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 109,
+          "name": "MIRACLE OGORK MESEMBE",
+          "matricule": "SC24B140",
+          "email": "miracle.ogork@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 110,
+          "name": "MONANG FOFOU AURIOLE DELVA",
+          "matricule": "SC24B141",
+          "email": "monang.fofou@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 111,
+          "name": "MUYEN MBAKU JESSICA LENA",
+          "matricule": "SC24B142",
+          "email": "muyen.mbaku@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 112,
+          "name": "NAMBU THIARA LENOR TUO-UO",
+          "matricule": "SC24B143",
+          "email": "nambu.thiara@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 113,
+          "name": "NANA SENJU BRANDON",
+          "matricule": "SC24B144",
+          "email": "nana.senju@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 114,
+          "name": "NANGA STACY NTINGLET",
+          "matricule": "SC24C521",
+          "email": "nanga.stacy@ubuea.cm",
+          "admittedDate": "16/10/2024"
+        },
+        {
+          "sn": 115,
+          "name": "NASELI OKHA NEKONYI LONA",
+          "matricule": "SC24B145",
+          "email": "naseli.okha@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 116,
+          "name": "NCHANG VICTORY AWAH",
+          "matricule": "SC24B146",
+          "email": "nchang.victory@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 117,
+          "name": "NCHONGANYI LEWIS KEAHLEBONG",
+          "matricule": "SC24B147",
+          "email": "nchonganyi.lewis@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 118,
+          "name": "NDAM LEKA LAFORTUNE VANELLE",
+          "matricule": "SC24B148",
+          "email": "ndam.leka@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 119,
+          "name": "NDE LEYONGA ROSIE FAITH",
+          "matricule": "SC24B149",
+          "email": "nde.leyonga@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 120,
+          "name": "NDELLE GODWILL NGUCHEDE",
+          "matricule": "SC24B150",
+          "email": "ndelle.godwill@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 121,
+          "name": "NDIP ACHALE MIGUEL",
+          "matricule": "SC24B151",
+          "email": "ndip.achale@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 122,
+          "name": "NDITACHI EMMANUEL MUOKAH",
+          "matricule": "SC24B152",
+          "email": "nditachi.emmanuel@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 123,
+          "name": "NDOB LESLIE NCHOUBOWOH",
+          "matricule": "SC24B153",
+          "email": "ndob.leslie@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 124,
+          "name": "NDOME LOBE ANDREINA OLIVE DOROTHEE",
+          "matricule": "SC24B154",
+          "email": "ndome.lobe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 125,
+          "name": "NDUM NELLYVONNE NJUH-TEGHA",
+          "matricule": "SC24B155",
+          "email": "ndum.nellyvonne@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 126,
+          "name": "NEBA AKONGNWI SHU BELLAMY",
+          "matricule": "SC24B156",
+          "email": "neba.akongnwi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 127,
+          "name": "NEBA HULBERT SUH",
+          "matricule": "SC24B555",
+          "email": "neba.hulbert@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 128,
+          "name": "NETONGO NGOE FORTUNE",
+          "matricule": "SC24B157",
+          "email": "netongo.ngoe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 129,
+          "name": "NGABE BLAISE AKAME",
+          "matricule": "SC24B158",
+          "email": "ngabe.blaise@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 130,
+          "name": "NGANDO MBOUTSA PHILIPPE GAEL",
+          "matricule": "SC24B159",
+          "email": "ngando.mboutsa@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 131,
+          "name": "NGANJO NWIYO NAMIE SANDRA",
+          "matricule": "SC24B160",
+          "email": "nganjo.nwiyo@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 132,
+          "name": "NGATCHAM YOUANI FRANCK JUNIOR",
+          "matricule": "SC24B557",
+          "email": "ngatcham.youani@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 133,
+          "name": "NGEK SHERIVELLE FEYINYEMEN",
+          "matricule": "SC24B161",
+          "email": "ngek.sherivelle@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 134,
+          "name": "NGOASONG NKENGFUA ANU",
+          "matricule": "SC24B162",
+          "email": "ngoasong.nkengfua@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 135,
+          "name": "NGOH FRANCIS EFEM",
+          "matricule": "SC24B163",
+          "email": "ngoh.francis@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 136,
+          "name": "NGUEFACK NDONGFACK GATIEN SANDIP",
+          "matricule": "SC24B164",
+          "email": "nguefack.ndongfack@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 137,
+          "name": "NJINUWO GODLOVE NUGANGA",
+          "matricule": "SC24B166",
+          "email": "njinuwo.godlove@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 138,
+          "name": "NKEANGTIE MARY-ANNE",
+          "matricule": "SC24B168",
+          "email": "nkeangtie.mary-anne@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 139,
+          "name": "NKEMBI LEARNS-RYANE VINCENTMARC ETONGA",
+          "matricule": "SC24B169",
+          "email": "nkembi.learns-ryane@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 140,
+          "name": "NKEMNKENG BLESSING NTSAFAC",
+          "matricule": "SC24B170",
+          "email": "nkemnkeng.blessing@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 141,
+          "name": "NKONGHO MARVELOUS EGBE",
+          "matricule": "SC24B171",
+          "email": "nkongho.marvelous@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 142,
+          "name": "NKUIDJOU TAKOUGUM IDRIS",
+          "matricule": "SC24B172",
+          "email": "nkuidjou.takougum@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 143,
+          "name": "NTSEZEH BESIPAH KAREM",
+          "matricule": "SC24B173",
+          "email": "ntsezeh.besipah@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 144,
+          "name": "NWONDENG MARK PHILIPS NTOH",
+          "matricule": "SC24B174",
+          "email": "nwondeng.mark@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 145,
+          "name": "Nyando Mbone",
+          "matricule": "SC24B175",
+          "email": "nyando.mbone@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 146,
+          "name": "NYUYFONI ZIARUDIN YUFENYUY",
+          "matricule": "SC24B176",
+          "email": "nyuyfoni.ziarudin@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 147,
+          "name": "NZOKO LONTCHI JULIEN",
+          "matricule": "SC24C292",
+          "email": "nzoko.lontchi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 148,
+          "name": "OBEN AGBOR YVES JUNIOR",
+          "matricule": "SC24B178",
+          "email": "oben.agbor@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 149,
+          "name": "OJOH JUNIOR FRANKLIN",
+          "matricule": "SC24B180",
+          "email": "ojoh.junior@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 150,
+          "name": "OROCK JUSHUA EBAI",
+          "matricule": "SC24B806",
+          "email": "orock.jushua@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 151,
+          "name": "OROCK OJONG TABI BRIGHT",
+          "matricule": "SC24B181",
+          "email": "orock.ojong@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 152,
+          "name": "PAGNING SAHA PRAISE-FLORE",
+          "matricule": "SC24B182",
+          "email": "pagning.saha@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 153,
+          "name": "PRINCE TERRY SCOTT KONGNYUY",
+          "matricule": "SC24B183",
+          "email": "prince.terry@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 154,
+          "name": "RAMATOU-MERIAM PAMBOUNDAM MUNUNDE",
+          "matricule": "SC24B184",
+          "email": "ramatou-meriam.pamboundam@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 155,
+          "name": "RAMSAY NGUBE EKOTESON",
+          "matricule": "SC24B185",
+          "email": "ramsay.ngube@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 156,
+          "name": "RAUDATUL JANNAH ABDULLAH",
+          "matricule": "SC24B186",
+          "email": "raudatul.jannah@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 157,
+          "name": "REYHAN EBAI ENOWNJOCK OJONG KUKAH",
+          "matricule": "SC24B187",
+          "email": "reyhan.ebai@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 158,
+          "name": "RICHARD MODIKA MELIKO I",
+          "matricule": "SC24B188",
+          "email": "richard.modika@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 159,
+          "name": "RUTH ACHUMA OFON",
+          "matricule": "SC24B189",
+          "email": "ruth.achuma@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 160,
+          "name": "RYANN MAFON NDOPING",
+          "matricule": "SC24B190",
+          "email": "ryann.mafon@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 161,
+          "name": "SAKWE PRINCE NJIKOBIYA",
+          "matricule": "SC24B191",
+          "email": "sakwe.prince@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 162,
+          "name": "SAMKIH BRIGHT DOBLI",
+          "matricule": "SC24B193",
+          "email": "samkih.bright@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 163,
+          "name": "SHU AFANWI BLAISE",
+          "matricule": "SC24B194",
+          "email": "shu.afanwi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 164,
+          "name": "SIGHAN CYRIL BERVER",
+          "matricule": "SC24B195",
+          "email": "sighan.cyril@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 165,
+          "name": "SONWA KENNE SIDONIE",
+          "matricule": "SC24B459",
+          "email": "sonwa.kenne@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 166,
+          "name": "SUCCESS CHIBUEZE AGUWA",
+          "matricule": "SC24B196",
+          "email": "success.chibueze@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 167,
+          "name": "TABE AGBOR ELIANA LIONEL",
+          "matricule": "SC24B197",
+          "email": "tabe.agbor@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 168,
+          "name": "TABE EGBE BLESSING BATE",
+          "matricule": "SC24B198",
+          "email": "tabe.egbe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 169,
+          "name": "TABOT STECY NSO-MANYOR",
+          "matricule": "SC24B199",
+          "email": "tabot.stecy@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 170,
+          "name": "TAKOUKAM TENDA MISHAEL",
+          "matricule": "SC24B200",
+          "email": "takoukam.tenda@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 171,
+          "name": "TAMBE EGBE EMMANUEL",
+          "matricule": "SC24B201",
+          "email": "tambe.egbe@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 172,
+          "name": "TAMOGHO MINETTE YOGBOMENYI",
+          "matricule": "SC24B822",
+          "email": "tamogho.minette@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 173,
+          "name": "TANKEU CHUNGA ANGE DAINA",
+          "matricule": "SC24B202",
+          "email": "tankeu.chunga@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 174,
+          "name": "TANTO EINSTEIN YUFENYU",
+          "matricule": "SC24B203",
+          "email": "tanto.einstein@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 175,
+          "name": "TANTOH SALAMATOU NGHOBOH",
+          "matricule": "SC24B204",
+          "email": "tantoh.@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 176,
+          "name": "TANYI TAKEM FERDINAND TANYI",
+          "matricule": "SC24A547",
+          "email": "tanyi.takem@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 177,
+          "name": "TASHI FOUNDA MANFRED EMMANUEL",
+          "matricule": "SC24C522",
+          "email": "tashi.founda@ubuea.cm",
+          "admittedDate": "16/10/2024"
+        },
+        {
+          "sn": 178,
+          "name": "TAWOH JUNIOR NGOPONJIH",
+          "matricule": "SC24B205",
+          "email": "tawoh.junior@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 179,
+          "name": "TAYOH ATAM NITAN KEBUH",
+          "matricule": "SC24B206",
+          "email": "tayoh.atam@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 180,
+          "name": "TAZUH FAITH TENENG",
+          "matricule": "SC24A550",
+          "email": "tazuh.faith@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 181,
+          "name": "TCHAMENI TIAKO EMMANUEL",
+          "matricule": "SC24B207",
+          "email": "tchameni.tiako@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 182,
+          "name": "TCHARI BANG SIMON RAOUL",
+          "matricule": "SC24B208",
+          "email": "tchari.bang@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 183,
+          "name": "TCHEPTANG TCHAPMO LEONEL VANECK",
+          "matricule": "SC24B209",
+          "email": "tcheptang.tchapmo@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 184,
+          "name": "TEGUM FAITH KAH",
+          "matricule": "SC24B210",
+          "email": "tegum.faith@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 185,
+          "name": "TEKE MARCK NOEL",
+          "matricule": "SC24B211",
+          "email": "teke.marck@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 186,
+          "name": "TELMA NAHBILA NJONG",
+          "matricule": "SC24B212",
+          "email": "telma.nahbila@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 187,
+          "name": "TENG CLARE AKINIMBOM FUO",
+          "matricule": "SC24B213",
+          "email": "teng.clare@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 188,
+          "name": "TENGEN CLAUVERT MUNDU",
+          "matricule": "SC24B214",
+          "email": "tengen.clauvert@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 189,
+          "name": "TENING PENN EMMANUEL",
+          "matricule": "SC24B215",
+          "email": "tening.penn@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 190,
+          "name": "TIKUM BEASLEY ATEH",
+          "matricule": "SC24B216",
+          "email": "tikum.beasley@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 191,
+          "name": "TONIFAR GODWILL AGHOWEH",
+          "matricule": "SC24B217",
+          "email": "tonifar.godwill@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 192,
+          "name": "UM BERNARD PYTHAGORE",
+          "matricule": "SC24B218",
+          "email": "um.bernard@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 193,
+          "name": "VERGINIA TANYI EPOSI",
+          "matricule": "SC24B321",
+          "email": "verginia.tanyi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 194,
+          "name": "WIYEH ALOYSIUS TATINYUY",
+          "matricule": "SC24B219",
+          "email": "wiyeh.aloysius@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 195,
+          "name": "WUNG EBUH ELIOT",
+          "matricule": "SC24B220",
+          "email": "wung.ebuh@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 196,
+          "name": "YONTA DJUNE BLERIOT",
+          "matricule": "SC24C311",
+          "email": "yonta.djune@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 197,
+          "name": "YVES-SCOTT MISSI BRICE",
+          "matricule": "SC24B221",
+          "email": "yves-scott.missi@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        },
+        {
+          "sn": 198,
+          "name": "ZALI ZALI STEEVE",
+          "matricule": "SC24C312",
+          "email": "zali.zali@ubuea.cm",
+          "admittedDate": "27/09/2024"
+        }
+      ]
+    }
+  ]
+}
