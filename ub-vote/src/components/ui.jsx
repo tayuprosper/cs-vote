@@ -13,7 +13,7 @@ export function Logo() {
         <FiCheckSquare size={18} />
       </span>
       <span className="text-lg font-extrabold tracking-tight text-slate-900">
-        UB Vote
+        UBCOMBSA VOTES
       </span>
     </Link>
   );
