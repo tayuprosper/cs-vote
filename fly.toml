@@ -1,29 +1,36 @@
-# Rename `app` to something globally unique before first deploy, or just
-# run `fly launch` and let it offer to use this existing config.
-app = "cs-vote-api"
-primary_region = "iad"
+# fly.toml app configuration file generated for cs-vote on 2026-11-13T15:09:00Z
+#
+# See https://docs.fly.io/reference/configuration for information about how to use this file.
+#
+
+app = 'cs-vote'
+primary_region = 'iad'
 
 [build]
-
 [env]
-  PORT = "8080"
-  # Points at the mounted volume below so db.json survives restarts/redeploys.
-  DATA_DIR = "/data"
+  DATA_DIR = '/data'
+  PORT = '8080'
 
 [[mounts]]
-  source = "cs_vote_data"
-  destination = "/data"
+  source = 'cs_vote_data'
+  destination = '/data'
 
 [http_service]
   internal_port = 8080
   force_https = true
-  auto_stop_machines = "stop"
+  auto_stop_machines = 'stop'
   auto_start_machines = true
   min_machines_running = 0
 
   [[http_service.checks]]
-    grace_period = "10s"
-    interval = "30s"
-    method = "GET"
-    path = "/api/state"
-    timeout = "5s"
+    interval = '30s'
+    timeout = '5s'
+    grace_period = '10s'
+    method = 'GET'
+    path = '/api/state'
+
+[[vm]]
+  memory = '1gb'
+  cpu_kind = 'shared'
+  cpus = 1
+  memory_mb = 1024
