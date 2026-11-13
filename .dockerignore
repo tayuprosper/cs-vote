@@ -1,0 +1,9 @@
+node_modules
+ub-vote
+.git
+.env
+.env.*
+!.env.example
+server/data/db.json
+server/data/db.json.tmp
+*.md
